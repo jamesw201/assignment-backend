@@ -167,7 +167,6 @@ I've added new tests with mocks to capture the refactored code.
 - data_pipeline/tests/URLFrontier.test.ts
 
 ## Improvements needed
-- I wanted to deal with error handling by logging and saving failed jobs to the DB but time got away from me.
 - more unit tests
 - Integration tests would be good. Although I think that by injecting dependencies, pretty much all lines are covered.
 - probably a lot of style issues and minor things missed in a rush
