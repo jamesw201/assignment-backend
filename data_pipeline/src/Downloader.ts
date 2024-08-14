@@ -54,7 +54,6 @@ function Downloader(db: KnexDb, httpCaller: Http, csvHandler: PapaParse) {
 		}).filter(transaction => transaction?.buyer_name !== '')
 
 		await db.batchInsert('spend_transactions', spendTransactions, 200)
-		console.log("Finished writing to the DB.")
 
 		return csvContent
 	}
