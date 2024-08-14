@@ -145,15 +145,22 @@ The application is broken into a few parts:
 ### Data Pipeline
 
 #### URLFrontier
+Summary: gets the URLs needed for the pipeline and puts them into queues for processing.
+
 - calls the /api/urls/unvisited endpoint to get URLs for processing
 - extracts links from urls
 - places Tasks on a Queue which manages the 'politeness' of the app by adding a delay and concurrency limit
 
 #### Downloader
+Summary: processes a URL when the queue executes it, extracting csv files and inserting them into the Database.
+
 - extracts csv links from secondary pages
 - parses csv into SpendTransactions and writes to the spend_transactions table
 
 ### APIs
+#### audits
+- returns transactions sent to the deadletter table
+
 #### suppliers
 - adds the top-suppliers endpoint to the existing endpoints
 
@@ -162,13 +169,13 @@ The application is broken into a few parts:
   This could be extended to accept new URLs that are found by Downloader jobs
 
 ### Tests
-I've added new tests with mocks to capture the refactored code.
+I've added new TDD tests with mocks to capture the refactored code.
 - data_pipeline/tests/Downloader.test.ts
 - data_pipeline/tests/URLFrontier.test.ts
 
 ## Improvements needed
 - more unit tests
-- Integration tests would be good. Although I think that by injecting dependencies, pretty much all lines are covered.
+- Integration tests would be good. Although I think that by passing dependencies to components which are easily mocked, pretty much all lines are covered.
 - probably a lot of style issues and minor things missed in a rush
 - would benefit from dockerising apps and adding docker-compose config
 - The api doesn't handle timestamps of this format as expected `{ "from_date": "20210101" }`. Instead they accept `{ "from_date": "2022-01-01" }`.

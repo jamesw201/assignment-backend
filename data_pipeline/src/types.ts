@@ -128,3 +128,13 @@ export type SpendTransaction = {
 	transaction_timestamp: string // should be iso format
 }
 
+export type DeadLetterTransaction = {
+	buyer_name: string
+	supplier_name: string
+	amount: string
+	transaction_timestamp: string // should be iso format
+	pipeline_timestamp?: string | null
+	error_message: string
+}
+
+
