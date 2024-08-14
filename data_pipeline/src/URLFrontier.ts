@@ -7,6 +7,10 @@ import type { Downloader, Links } from './types'
 interface UrlResponseItem {
 	url: string;
 }
+
+const DATA_RETREIVAL_START_DATE = "2020-02-01"
+const URL_API_ENDPOINT = "http://localhost:3001/api/urls/unvisited"
+
 /*
  * URLFrontier
  * 
@@ -20,7 +24,7 @@ function URLFrontier(queue: IPQueue, httpCaller: Http, downloader: Downloader) {
 		const data = await response.json()
 		const links: Links = data.links
 
-		const startDate = DateTime.fromISO('2020-02-01')
+		const startDate = DateTime.fromISO(DATA_RETREIVAL_START_DATE)
 		const docsSince2020 = links.documents.filter(doc => DateTime.fromISO(doc.public_updated_at) > startDate)
 
 		console.debug("docs since 2020", docsSince2020.length)
@@ -35,7 +39,7 @@ function URLFrontier(queue: IPQueue, httpCaller: Http, downloader: Downloader) {
 	}
 
 	const start = async () => {
-		const urlResponse = await httpCaller("http://localhost:3001/api/urls/unvisited")
+		const urlResponse = await httpCaller(URL_API_ENDPOINT)
 		const urls: UrlResponseItem[] = await urlResponse.json()
 
 		for (const item of urls) {
