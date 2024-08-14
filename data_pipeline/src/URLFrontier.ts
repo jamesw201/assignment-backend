@@ -28,7 +28,6 @@ function URLFrontier(queue: IPQueue, httpCaller: Http, downloader: Downloader) {
 
 		// Request the link found at api_url
 		const childUrls = docsSince2020.map(doc => doc.api_url)
-		console.log("childUrls", childUrls)
 
 		await Promise.all(childUrls.map(url =>
 			queue.add(() => downloader.start(url))
@@ -38,7 +37,6 @@ function URLFrontier(queue: IPQueue, httpCaller: Http, downloader: Downloader) {
 	const start = async () => {
 		const urlResponse = await httpCaller("http://localhost:3001/api/urls/unvisited")
 		const urls: UrlResponseItem[] = await urlResponse.json()
-		console.log("urls", urls)
 
 		for (const item of urls) {
 			await processUrl(item.url)
