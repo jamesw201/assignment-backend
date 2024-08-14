@@ -2,19 +2,10 @@ import Papa from 'papaparse';
 
 // DEPENDENCY TYPES
 
-// Define a type that represents the structure of PapaParse
 export type PapaParse = {
 	parse: <T>(input: string | File, config?: Papa.ParseConfig) => Papa.ParseResult<T>;
 	unparse: <T>(data: T[], config?: Papa.UnparseConfig) => string;
-	// Add other methods if needed based on your usage
-};
-
-// Define a type for the configuration options if needed
-type PapaParseConfig = Papa.ParseConfig;
-type PapaUnparseConfig = Papa.UnparseConfig;
-
-// Define a type for the result of parse
-type PapaParseResult<T> = Papa.ParseResult<T>;
+}
 
 export type Http = (
 	input: RequestInfo,
