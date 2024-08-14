@@ -51,7 +51,7 @@ function Downloader(db: KnexDb, httpCaller: Http, csvHandler: PapaParse) {
 			} catch (err) {
 				return null
 			}
-		}).filter(transaction => transaction?.buyer_name !== '')
+		}).filter(transaction => transaction && transaction?.buyer_name !== '')
 
 		await db.batchInsert('spend_transactions', spendTransactions, 200)
 
