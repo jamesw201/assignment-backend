@@ -1,0 +1,901 @@
+Department family,Entity,Date,Expense type,Expense area,Supplier,Transaction number,Amount,Description,Supplier Postcode
+HMRC,HMRC,03/06/2024,Courier Services,Estates,Royal Mail Group Ltd,1900090498,"39,780.90",Courier Services,S49 1HQ
+HMRC,HMRC,03/06/2024,Virtual Hosting and Infrastructure,CDIO - Core,SOFTCAT LTD,1900104659,"1,460,616.59",Virtual Hosting and Infrastructure,SL7 1LW
+HMRC,HMRC,03/06/2024,Contracted Services,Operational Excellence & Output Mgmt,RESTORE DIGITAL LTD,1900104695,"177,475.21",Contracted Services,WV14 0UJ
+HMRC,HMRC,03/06/2024,National postal EVAT,Operational Excellence & Output Mgmt,Royal Mail Group Ltd,5100009596,"-69,655.91",National postal EVAT,S49 1HQ
+HMRC,HMRC,03/06/2024,SW Lic Sup mngd Serv,CDIO - Core,NUANCE COMMUNICATIONS IRELAND LTD,5100012760,"100,050.00",SW Lic Sup mngd Serv,D02 F721
+HMRC,HMRC,03/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,DELOITTE LLP (L),5100013169,"678,980.00",PROJECT Mandays Supp,MK9 1FD
+HMRC,HMRC,03/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,DELOITTE LLP (L),5100013171,"132,568.80",PROJECT Mandays Supp,MK9 1FD
+HMRC,HMRC,03/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,DELOITTE LLP (L),5100013171,"132,568.80",PROJECT Mandays Supp,MK9 1FD
+HMRC,HMRC,03/06/2024,National postal ZVAT,Operational Excellence & Output Mgmt,Royal Mail Group Ltd,5100013217,654.72,National postal ZVAT,S49 1HQ
+HMRC,HMRC,03/06/2024,National postal EVAT,Operational Excellence & Output Mgmt,Royal Mail Group Ltd,5100013217,"40,473.18",National postal EVAT,S49 1HQ
+HMRC,HMRC,03/06/2024,Nat Pst Del Ser(VAT),Operational Excellence & Output Mgmt,Royal Mail Group Ltd,5100013217,"345,045.25",Nat Pst Del Ser(VAT),S49 1HQ
+HMRC,HMRC,03/06/2024,Counsel Fee VAT Irre,Solicitor's Office & Legal Services,FRANCIS FITZPATRICK KC,5100013218,"43,848.00",Counsel Fee,WC2A 3QB
+HMRC,HMRC,03/06/2024,Contin Labor Run,HMRC Security,CGI IT UK LTD,5100013220,"26,560.80",Contin Labor Run,CF31 9AP
+HMRC,HMRC,03/06/2024,Sys Software Maint,Customs Policy and Strategy,ENGINE PARTNERS UK LLP,5100013223,"170,253.33",Sys Software Maint,W1W 7RT
+HMRC,HMRC,03/06/2024,CS Government Recrut,Unity Business Services,CABINET OFFICE,5100013228,"60,970.50",CS Government Recrut,FY1 9JN
+HMRC,HMRC,03/06/2024,Consultancy – IT,Programme and Operational Delivery,Amazon Web Services UK,5100013231,"31,433.62",IT Contractors ,EC2A 2FA
+HMRC,HMRC,03/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,EQUAL EXPERTS UK LTD,5100013233,"95,331.02",IT Contractors ,AL1 5HE
+HMRC,HMRC,03/06/2024,Consultancy – IT,CDIO - Core,FINYX CONSULTING LTD,5100013237,"43,747.00",Consultancy – IT,YO10 5GA
+HMRC,HMRC,03/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,Atos Holding UK 1 Ltd,5100013240,"51,650.70",PROJECT Mandays Supp,WC1V 6EA
+HMRC,HMRC,03/06/2024,PROJECT Mandays HMRC,B&T Border Change Delivery,Baringa Partners LLP,5100013259,"596,475.00",Customs Declaration Service Contractor Costs,SW1E 6AJ
+HMRC,HMRC,03/06/2024,Security printing,Indirect Tax Directorate,RESTORE DIGITAL LTD,5100013260,"32,961.40",Security printing,WV14 0UJ
+HMRC,HMRC,03/06/2024,Physical Hosting,CDIO - Core,FUJITSU SERVICES LTD,5100013275,"91,696.91",Physical Hosting,WA3 6GD
+HMRC,HMRC,04/06/2024,Project Development,CDIO - Core,CAPITA CONSULTING,1900106000,"114,582.28",Project Development,NE136DS
+HMRC,HMRC,04/06/2024,Project Development,CDIO - Core,CAPITA CONSULTING,1900106003,"69,795.46",Project Development,NE136DS
+HMRC,HMRC,04/06/2024,Project Development,CDIO - Core,CAPITA CONSULTING,1900106005,"22,517.56",Project Development,NE136DS
+HMRC,HMRC,04/06/2024,Project Development,CDIO - Core,CAPITA CONSULTING,1900106007,"21,251.11",Project Development,NE136DS
+HMRC,HMRC,04/06/2024,Project Development,CDIO - Core,CAPITA CONSULTING,1900106009,"24,507.67",Project Development,NE136DS
+HMRC,HMRC,04/06/2024,Contracted Services,Operational Excellence & Output Mgmt,RESTORE DIGITAL LTD,1900108011,"20,985.58",Contracted Services,WV14 0UJ
+HMRC,HMRC,04/06/2024,Furniture & Fixtures,Surge & ODP,LIVE GROUP LTD,5100013098,"28,178.40",Furniture & Fixtures,KT1 2SZ
+HMRC,HMRC,04/06/2024,PROJECT Mandays Supp,CDIO - Core,EQUAL EXPERTS UK LTD,5100013101,"227,775.00",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,04/06/2024,PROJECT Mandays Supp,CDIO - Core,EQUAL EXPERTS UK LTD,5100013103,"42,200.00",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,04/06/2024,Lifecycle Replace,Estates,Wates Property Services Ltd,5100013104,"119,919.73",Lifecycle Replace,EN1 3XA
+HMRC,HMRC,04/06/2024,PROJECT Mandays Supp,CDIO - Core,EQUAL EXPERTS UK LTD,5100013309,"117,775.00",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,04/06/2024,PROJECT Mandays Supp,CDIO - Core,EQUAL EXPERTS UK LTD,5100013310,"53,762.50",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,04/06/2024,PROJECT Mandays Supp,CDIO - Core,BRITISH TELECOMMUNICATIONS PLC,5100013311,"24,156.49",PROJECT Mandays Supp,E1 8EE
+HMRC,HMRC,04/06/2024,PROJECT Mandays Supp,CDIO - Core,EQUAL EXPERTS UK LTD,5100013317,"60,125.00",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,04/06/2024,Minor Wrks Irrec VAT,Estates,Wates Property Services Ltd,5100013320,"54,942.62",Minor Wrks Irrec VAT,EN1 3XA
+HMRC,HMRC,04/06/2024,PROJECT Mandays Supp,CDIO - Core,EQUAL EXPERTS UK LTD,5100013322,"42,200.00",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,04/06/2024,PROJECT Mandays Supp,CDIO - Core,EQUAL EXPERTS UK LTD,5100013323,"80,200.00",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,04/06/2024,PROJECT Mandays Supp,CDIO - Core,EQUAL EXPERTS UK LTD,5100013324,"101,656.25",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,04/06/2024,PROJECT Mandays Supp,CDIO - Core,EQUAL EXPERTS UK LTD,5100013328,"23,625.00",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,04/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,EQUAL EXPERTS UK LTD,5100013329,"59,342.53",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,04/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,EQUAL EXPERTS UK LTD,5100013331,"32,516.26",IT Contractors ,AL1 5HE
+HMRC,HMRC,04/06/2024,PROJECT Mandays Supp,CDIO - Core,EQUAL EXPERTS UK LTD,5100013332,"60,806.25",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,04/06/2024,PROJECT Mandays Supp,CDIO - Core,EQUAL EXPERTS UK LTD,5100013333,"84,457.00",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,04/06/2024,PROJECT Mandays Supp,CDIO - Core,EQUAL EXPERTS UK LTD,5100013342,"61,600.00",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,04/06/2024,PROJECT Mandays Supp,CDIO - Core,Mastek UK Ltd,5100013344,"881,241.35",PROJECT Mandays Supp,RG1 8BW
+HMRC,HMRC,04/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,EQUAL EXPERTS UK LTD,5100013363,"33,986.71",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,04/06/2024,PROJECT Mandays Supp,CDIO - Core,BRITISH TELECOMMUNICATIONS PLC,5100013374,"63,755.14",PROJECT Mandays Supp,E1 8EE
+HMRC,HMRC,04/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,EQUAL EXPERTS UK LTD,5100013384,"223,568.13",Customs Declaration Service Contractor Costs,AL1 5HE
+HMRC,HMRC,04/06/2024,OHS,HR,Duradiamond Healthcare LTD,5100013475,"245,345.38",Occupational Health Services,TN22 1QL
+HMRC,HMRC,04/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,CGI IT UK LTD,5100013477,"23,294.25",PROJECT Mandays Supp,CF31 9AP
+HMRC,HMRC,04/06/2024,Forensic Services,Fraud Investigation Service,EUROFINS FORENSIC SERVICES LTD,5100013519,"122,450.00",Forensic Services,WV9 5GB
+HMRC,HMRC,04/06/2024,SW Lic Sup Off shlf,Change Delivery DG & Programme Office,ARISTI LTD,5100013522,"60,840.00",SW Lic Sup Off shlf,B31 2TS
+HMRC,HMRC,04/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,ACCENTURE (UK) LTD,5100013530,"161,399.53",PROJECT Mandays Supp,EC3M 3BD
+HMRC,HMRC,04/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,Atos Holding UK 1 Ltd,5100013535,"39,062.50",PROJECT Mandays Supp,WC1V 6EA
+HMRC,HMRC,04/06/2024,Consultancy - Techni,CDIO - Core,SYNYEGA LTD,5100013539,"154,000.00",Consultancy - Techni,BL9 7HR
+HMRC,HMRC,05/06/2024,Contracted Services,Operational Excellence & Output Mgmt,RESTORE DIGITAL LTD,1900115838,"58,379.64",Contracted Services,WV14 0UJ
+HMRC,HMRC,05/06/2024,Physical Hosting and Infrastructure,CDIO - Core,FUJITSU SERVICES LTD,1900115885,"90,985.00",Physical Hosting and Infrastructure,WA3 6GD
+HMRC,HMRC,05/06/2024,IT Software Licenses and Support,CDIO - Core,FUJITSU SERVICES LTD,1900115887,"1,191,778.18",IT Software Licenses and Support,WA3 6GD
+HMRC,HMRC,05/06/2024,Virtual Hosting and Infrastructure,CDIO - Core,FUJITSU SERVICES LTD,1900115890,"22,640.69",Virtual Hosting and Infrastructure,WA3 6GD
+HMRC,HMRC,05/06/2024,Physical Hosting and Infrastructure,CDIO - Core,FUJITSU SERVICES LTD,1900115891,"51,825.96",Physical Hosting and Infrastructure,WA3 6GD
+HMRC,HMRC,05/06/2024,PROJECT Mandays Supp,CDIO - Core,FUJITSU SERVICES LTD,5100013541,"25,828.43",PROJECT Mandays Supp,WA3 6GD
+HMRC,HMRC,05/06/2024,Electronic newspaper,CDIO - Core,FINANCIAL TIMES LTD,5100013547,"195,976.00",Electronic newspaper,EC4M 9BT
+HMRC,HMRC,05/06/2024,Consultancy - P&C,CFO Transformation Programmes,Mott MacDonald,5100013550,"70,706.00",Newcastle Regional Centre. Professional Services - Project Support. May 24,SE1 9LZ
+HMRC,HMRC,05/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,Atos Holding UK 1 Ltd,5100013562,"33,909.77",PROJECT Mandays Supp,WC1V 6EA
+HMRC,HMRC,05/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,EQUAL EXPERTS UK LTD,5100013586,"131,168.75",Customs Declaration Service Contractor Costs,AL1 5HE
+HMRC,HMRC,05/06/2024,Other IT Hardware,Government Banking and Payments,EXELA TECHNOLOGIES LTD,5100013600,"46,527.60",Other IT Hardware,TW20 9AB
+HMRC,HMRC,05/06/2024,Soft FM Services,Estates,SODEXO LTD,5100013613,"528,705.24",Soft FM Services,M50 2UE
+HMRC,HMRC,05/06/2024,Soft FM Services,Estates,SODEXO LTD,5100013615,"477,951.62",Soft FM Services,M50 2UE
+HMRC,HMRC,05/06/2024,PROJECT Mandays Supp,Change Delivery Making Tax Digital,Atos Holding UK 1 Ltd,5100013628,"104,365.00",PROJECT Mandays Supp,WC1V 6EA
+HMRC,HMRC,05/06/2024,PROJECT Mandays Supp,Change Delivery Making Tax Digital,Atos Holding UK 1 Ltd,5100013634,"451,722.50",PROJECT Mandays Supp,WC1V 6EA
+HMRC,HMRC,05/06/2024,Rent (Irrec VAT),Estates,Workman Holding Account,5100013767,"628,774.80",Rent (Irrec VAT),EC2V 6EE
+HMRC,HMRC,05/06/2024,Rent (Irrec VAT),Estates,Workman Holding Account,5100013768,"171,052.80",Rent (Irrec VAT),EC2V 6EE
+HMRC,HMRC,05/06/2024,Rent (Irrec VAT),Estates,Workman Holding Account,5100013770,"768,962.40",Rent (Irrec VAT),EC2V 6EE
+HMRC,HMRC,05/06/2024,Rent (Irrec VAT),Estates,Workman Holding Account,5100013772,"324,226.20",Rent (Irrec VAT),EC2V 6EE
+HMRC,HMRC,05/06/2024,Rent (Irrec VAT),Estates,Workman Holding Account,5100013776,"943,016.70",Rent (Irrec VAT),EC2V 6EE
+HMRC,HMRC,05/06/2024,Rent (Irrec VAT),Estates,Workman Holding Account,5100013778,"171,068.40",Rent (Irrec VAT),EC2V 6EE
+HMRC,HMRC,05/06/2024,Rent (Irrec VAT),Estates,Workman Holding Account,5100013779,"223,182.06",Rent (Irrec VAT),EC2V 6EE
+HMRC,HMRC,05/06/2024,Rent (Irrec VAT),Estates,Workman Holding Account,5100013781,"744,620.71",Rent (Irrec VAT),EC2V 6EE
+HMRC,HMRC,05/06/2024,Rent (Irrec VAT),Estates,Workman Holding Account,5100013782,"223,268.70",Rent (Irrec VAT),EC2V 6EE
+HMRC,HMRC,05/06/2024,Rent (Irrec VAT),Estates,Workman Holding Account,5100013784,"363,362.02",Rent (Irrec VAT),EC2V 6EE
+HMRC,HMRC,05/06/2024,Rent (Irrec VAT),Estates,Workman Holding Account,5100013785,"137,866.07",Rent (Irrec VAT),EC2V 6EE
+HMRC,HMRC,05/06/2024,Rent (Irrec VAT),Estates,Workman Holding Account,5100013787,"1,435,548.58",Rent (Irrec VAT),EC2V 6EE
+HMRC,HMRC,05/06/2024,Prop. Man. (Ir VAT),Estates,Workman Holding Account,5100013788,"91,858.09",Prop. Man. (Ir VAT),EC2V 6EE
+HMRC,HMRC,05/06/2024,Rent (Irrec VAT),Estates,Workman Holding Account,5100013788,"917,213.14",Rent (Irrec VAT),EC2V 6EE
+HMRC,HMRC,05/06/2024,Media Monitoring,HMRC Communications,CABINET OFFICE,5100013789,"33,500.00",Media Monitoring,FY1 9JN
+HMRC,HMRC,05/06/2024,GovDept Serv(VAT Ex),Business Assets & International Policy,FINANCIAL REPORTING COUNCIL,5100013790,"118,495.63",GovDept Serv(VAT Ex),EC2Y 5AS
+HMRC,HMRC,05/06/2024,Rent (Irrec VAT),Estates,Workman Holding Account,5100013791,"673,423.68",Rent (Irrec VAT),EC2V 6EE
+HMRC,HMRC,05/06/2024,PROJECT Mandays HMRC,Change Delivery DG & Programme Office,COGNIZANT Technology Solutions,5100013793,"104,928.60",CDCS Q1 resource,EC2M 4AG
+HMRC,HMRC,05/06/2024,PROJECT Mandays HMRC,Change Delivery DG & Programme Office,COGNIZANT Technology Solutions,5100013794,"104,638.20",Q1 Cognizant,EC2M 4AG
+HMRC,HMRC,05/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,COGNIZANT Technology Solutions,5100013796,"86,977.00",PROJECT Mandays Supp,EC2M 4AG
+HMRC,HMRC,05/06/2024,PROJECT Mandays Supp,Knowledge Analysis & Intelligence,EQUAL EXPERTS UK LTD,5100013809,"24,409.13",IT Project Development Resource Days,AL1 5HE
+HMRC,HMRC,05/06/2024,Nat Pst Del Ser(VAT),Operational Excellence & Output Mgmt,Royal Mail Group Ltd,5100013815,"1,552.19",Nat Pst Del Ser(VAT),S49 1HQ
+HMRC,HMRC,05/06/2024,National postal ZVAT,Operational Excellence & Output Mgmt,Royal Mail Group Ltd,5100013815,"7,869.40",National postal ZVAT,S49 1HQ
+HMRC,HMRC,05/06/2024,National postal EVAT,Operational Excellence & Output Mgmt,Royal Mail Group Ltd,5100013815,"4,418,113.78",National postal EVAT,S49 1HQ
+HMRC,HMRC,05/06/2024,SW Lic Sup Off shlf,CDIO - Core,TRAMS LIMITED,5100013822,"95,321.75",SW Lic Sup Off shlf,EC4R 1AP
+HMRC,HMRC,05/06/2024,National postal EVAT,Operational Excellence & Output Mgmt,Royal Mail Group Ltd,5100013824,"32,568.08",National postal EVAT,S49 1HQ
+HMRC,HMRC,06/06/2024,Physical Hosting and Infrastructure,CDIO - Core,FUJITSU SERVICES LTD,1900115987,"468,001.80",Physical Hosting and Infrastructure,WA3 6GD
+HMRC,HMRC,06/06/2024,Physical Hosting and Infrastructure,CDIO - Core,FUJITSU SERVICES LTD,1900115991,"53,652.04",Physical Hosting and Infrastructure,WA3 6GD
+HMRC,HMRC,06/06/2024,Virtual Hosting and Infrastructure,CDIO - Core,FUJITSU SERVICES LTD,1900115992,"235,534.47",Virtual Hosting and Infrastructure,WA3 6GD
+HMRC,HMRC,06/06/2024,Physical Hosting and Infrastructure,CDIO - Core,FUJITSU SERVICES LTD,1900116047,"45,405.44",Physical Hosting and Infrastructure,WA3 6GD
+HMRC,HMRC,06/06/2024,Physical Hosting and Infrastructure,CDIO - Core,FUJITSU SERVICES LTD,1900116049,"59,588.58",Physical Hosting and Infrastructure,WA3 6GD
+HMRC,HMRC,06/06/2024,Virtual Hosting and Infrastructure,CDIO - Core,FUJITSU SERVICES LTD,1900116050,"29,831.40",Virtual Hosting and Infrastructure,WA3 6GD
+HMRC,HMRC,06/06/2024,Physical Hosting and Infrastructure,CDIO - Core,FUJITSU SERVICES LTD,1900116083,"794,078.02",Physical Hosting and Infrastructure,WA3 6GD
+HMRC,HMRC,06/06/2024,Physical Hosting and Infrastructure,CDIO - Core,FUJITSU SERVICES LTD,1900116087,"177,732.91",Physical Hosting and Infrastructure,WA3 6GD
+HMRC,HMRC,06/06/2024,Physical Hosting and Infrastructure,CDIO - Core,FUJITSU SERVICES LTD,1900116088,"303,904.74",Physical Hosting and Infrastructure,WA3 6GD
+HMRC,HMRC,06/06/2024,Virtual Hosting and Infrastructure,CDIO - Core,FUJITSU SERVICES LTD,1900116089,"73,915.27",Virtual Hosting and Infrastructure,WA3 6GD
+HMRC,HMRC,06/06/2024,Virtual Hosting and Infrastructure,CDIO - Core,FUJITSU SERVICES LTD,1900116090,"86,205.03",Virtual Hosting and Infrastructure,WA3 6GD
+HMRC,HMRC,06/06/2024,Dilipidations,Estates,DAC BEACHCROFT LLP - CLIENT ACCOUNT,1900117963,"300,000.00",Dilipidations,BS1 9HS
+HMRC,HMRC,06/06/2024,PROJECT Mandays Supp,CDIO - Core,RED HAT LTD,5100013470,"30,391.50",PROJECT Mandays Supp,.
+HMRC,HMRC,06/06/2024,Soft Licen Off Bespo,HR,ERNST & YOUNG LLP,5100013835,"41,742.00",Soft Licen Off Bespo,SE1 2AF
+HMRC,HMRC,06/06/2024,PROJECT Mandays HMRC,CDIO - Core,CGI IT UK LTD,5100013839,"48,405.42",PROJECT Mandays HMRC,CF31 9AP
+HMRC,HMRC,06/06/2024,PROJECT Mandays Supp,CDIO Transformation Programmes,BRITISH TELECOMMUNICATIONS PLC,5100013856,"32,957.20",PROJECT Mandays Supp,E1 8EE
+HMRC,HMRC,06/06/2024,Virtual Hosting,CDIO - Core,Amazon Web Services UK,5100013858,"396,311.59",Virtual Hosting,EC2A 2FA
+HMRC,HMRC,06/06/2024,Virtual Hosting,CDIO - Core,Amazon Web Services UK,5100013859,"1,383,990.15",Virtual Hosting,EC2A 2FA
+HMRC,HMRC,06/06/2024,PROJECT Mandays Supp,CDIO - Core,COGNIZANT Technology Solutions,5100013873,"23,150.00",PROJECT Mandays Supp,EC2M 4AG
+HMRC,HMRC,06/06/2024,PROJECT Mandays Supp,CDIO - Core,ACCENTURE (UK) LTD,5100013935,"53,138.19",PROJECT Mandays Supp,EC3M 3BD
+HMRC,HMRC,06/06/2024,PROJECT Mandays HMRC,Change Delivery DG & Programme Office,COGNIZANT Technology Solutions,5100014058,"138,632.40",Q2 & Q1 SOW Pega Cognizant and Adqura Multi Technology TS2 Contract,EC2M 4AG
+HMRC,HMRC,06/06/2024,PROJECT Mandays Supp,CDIO - Core,ACCENTURE (UK) LTD,5100014069,"22,188.00",PROJECT Mandays Supp,EC3M 3BD
+HMRC,HMRC,06/06/2024,PROJECT Mandays HMRC,Change Delivery DG & Programme Office,COGNIZANT Technology Solutions,5100014072,"153,535.80",Pega to re platform the service,EC2M 4AG
+HMRC,HMRC,06/06/2024,PROJECT Mandays HMRC,Change Delivery DG & Programme Office,COGNIZANT Technology Solutions,5100014074,"189,634.80",Pega ,EC2M 4AG
+HMRC,HMRC,06/06/2024,Prop. Man. (Ir VAT),Estates,Workman Holding Account,5100014075,"63,868.80",Prop. Man. (Ir VAT),EC2V 6EE
+HMRC,HMRC,06/06/2024,Prop. Man. (Ir VAT),Estates,Workman Holding Account,5100014084,"217,465.50",Prop. Man. (Ir VAT),EC2V 6EE
+HMRC,HMRC,06/06/2024,Rent (Irrec VAT),Estates,Workman Holding Account,5100014087,"1,276,684.80",Rent (Irrec VAT),EC2V 6EE
+HMRC,HMRC,06/06/2024,Property mgmt. ser.,Estates,LAMBERT SMITH HAMPTON,5100014088,"31,344.06",Property mgmt. ser.,NG1 5FS
+HMRC,HMRC,06/06/2024,Facility rental,Estates,LAMBERT SMITH HAMPTON,5100014088,"44,926.00",Facility rental,NG1 5FS
+HMRC,HMRC,06/06/2024,Rent (Irrec VAT),Estates,Workman Holding Account,5100014089,"294,060.83",Rent (Irrec VAT),EC2V 6EE
+HMRC,HMRC,06/06/2024,PROJECT Mandays Supp,CDIO - Core,Coforge,5100014090,"28,375.00",PROJECT Mandays Supp,EC3M 4AJ
+HMRC,HMRC,06/06/2024,PROJECT Mandays Supp,CDIO - Core,Coforge,5100014091,"28,375.00",PROJECT Mandays Supp,EC3M 4AJ
+HMRC,HMRC,06/06/2024,Property mgmt. ser.,Estates,LAMBERT SMITH HAMPTON,5100014092,"31,451.51",Property mgmt. ser.,NG1 5FS
+HMRC,HMRC,06/06/2024,Facility rental,Estates,LAMBERT SMITH HAMPTON,5100014092,"45,982.75",Facility rental,NG1 5FS
+HMRC,HMRC,06/06/2024,Rent (Irrec VAT),Estates,Jones Lang LaSalle Property Acc,5100014094,"360,000.00",Rent (Irrec VAT),E14 5WQ
+HMRC,HMRC,06/06/2024,PROJECT Mandays Supp,CDIO - Core,Coforge,5100014095,"43,205.00",PROJECT Mandays Supp,EC3M 4AJ
+HMRC,HMRC,06/06/2024,Rent (Irrec VAT),Estates,Savills UK Ltd,5100014096,"671,194.80",Rent (Irrec VAT),W1G 0JD
+HMRC,HMRC,06/06/2024,Prop. Man. (Ir VAT),Estates,Frank Knight LLP,5100014097,"32,931.50",Prop. Man. (Ir VAT),M2 1HW
+HMRC,HMRC,06/06/2024,Rent (Irrec VAT),Estates,Workman Holding Account,5100014100,"314,320.50",Rent (Irrec VAT),EC2V 6EE
+HMRC,HMRC,06/06/2024,Rent (Irrec VAT),Estates,Workman Holding Account,5100014101,"25,650.00",Rent (Irrec VAT),EC2V 6EE
+HMRC,HMRC,06/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,COGNIZANT Technology Solutions,5100014104,"83,401.69",IT Contractors ,EC2M 4AG
+HMRC,HMRC,06/06/2024,Prop. Man. (Ir VAT),Estates,Workman Holding Account,5100014105,"60,535.73",Prop. Man. (Ir VAT),EC2V 6EE
+HMRC,HMRC,06/06/2024,Rent (Irrec VAT),Estates,Workman Holding Account,5100014105,"1,422,470.99",Rent (Irrec VAT),EC2V 6EE
+HMRC,HMRC,06/06/2024,PROJECT Mandays HMRC,Change Delivery DG & Programme Office,COGNIZANT Technology Solutions,5100014109,"474,088.50",Q2 & Q1 SOW Pega Cognizant and Adqura Multi Technology TS2 Contract,EC2M 4AG
+HMRC,HMRC,06/06/2024,Mail/pickup/del serv,Operational Excellence & Output Mgmt,Whistl Ltd,5100014120,"51,568.93",Mail/pickup/del serv,SL7 1TB
+HMRC,HMRC,06/06/2024,Rent (Irrec VAT),Estates,Workman Holding Account,5100014122,"223,001.44",Rent (Irrec VAT),EC2V 6EE
+HMRC,HMRC,06/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,COGNIZANT Technology Solutions,5100014124,"829,648.50",PROJECT Mandays Supp,EC2M 4AG
+HMRC,HMRC,06/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,Atos Holding UK 1 Ltd,5100014132,"23,100.61",IT Contractors ,WC1V 6EA
+HMRC,HMRC,06/06/2024,GovDept Serv(VAT Ex),CSG Transformation,NATIONAL SAVINGS & INVESTMENTS,5100014147,"287,554.33",GovDept Serv(VAT Ex),SW1V 2QX
+HMRC,HMRC,07/06/2024,Management of Agreement & Admin Costs,CDIO - Core,CAPGEMINI,1700002974,"-505,624.00",Management of Agreement & Admin Costs,TF3 3BD
+HMRC,HMRC,07/06/2024,Utility Payments - electricity,Estates,Inspired Energy plc,1700003888,"-37,282.68",Utility Payments - electricity,PR4 2TZ
+HMRC,HMRC,07/06/2024,Utility Payments - electricity,Estates,Inspired Energy plc,1700003893,"-64,910.23",Utility Payments - electricity,PR4 2TZ
+HMRC,HMRC,07/06/2024,Utility Payments - electricity,Estates,Inspired Energy plc,1700003894,"-33,463.68",Utility Payments - electricity,PR4 2TZ
+HMRC,HMRC,07/06/2024,Utility Payments - electricity,Estates,Inspired Energy plc,1700003896,"-49,415.08",Utility Payments - electricity,PR4 2TZ
+HMRC,HMRC,07/06/2024,Utility Payments - electricity,Estates,Inspired Energy plc,1700003897,"-52,082.55",Utility Payments - electricity,PR4 2TZ
+HMRC,HMRC,07/06/2024,Utility Payments - electricity,Estates,Inspired Energy plc,1700003899,"-31,890.49",Utility Payments - electricity,PR4 2TZ
+HMRC,HMRC,07/06/2024,Utility Payments - electricity,Estates,Inspired Energy plc,1700003900,"-35,815.64",Utility Payments - electricity,PR4 2TZ
+HMRC,HMRC,07/06/2024,Utility Payments - electricity,Estates,Inspired Energy plc,1700003904,"-99,297.68",Utility Payments - electricity,PR4 2TZ
+HMRC,HMRC,07/06/2024,Utility Payments - electricity,Estates,Inspired Energy plc,1700003905,"-78,518.14",Utility Payments - electricity,PR4 2TZ
+HMRC,HMRC,07/06/2024,Project Development,CDIO - Core,CAPGEMINI,1900116005,"26,502.58",Project Development,TF3 3BD
+HMRC,HMRC,07/06/2024,System Maintenance,CDIO - Core,CAPGEMINI,1900116009,"372,554.01",System Maintenance,TF3 3BD
+HMRC,HMRC,07/06/2024,System Maintenance,CDIO - Core,CAPGEMINI,1900116010,"44,061.59",System Maintenance,TF3 3BD
+HMRC,HMRC,07/06/2024,System Maintenance,CDIO - Core,CAPGEMINI,1900116071,"79,672.70",System Maintenance,TF3 3BD
+HMRC,HMRC,07/06/2024,System Maintenance,CDIO - Core,CAPGEMINI,1900116072,"54,041.09",System Maintenance,TF3 3BD
+HMRC,HMRC,07/06/2024,System Maintenance,CDIO - Core,CAPGEMINI,1900116073,"77,325.61",System Maintenance,TF3 3BD
+HMRC,HMRC,07/06/2024,System Maintenance,CDIO - Core,CAPGEMINI,1900116074,"28,800.36",System Maintenance,TF3 3BD
+HMRC,HMRC,07/06/2024,System Maintenance,CDIO - Core,CAPGEMINI,1900116075,"48,856.37",System Maintenance,TF3 3BD
+HMRC,HMRC,07/06/2024,System Maintenance,CDIO - Core,CAPGEMINI,1900116077,"183,233.13",System Maintenance,TF3 3BD
+HMRC,HMRC,07/06/2024,System Maintenance,CDIO - Core,CAPGEMINI,1900116079,"36,383.54",System Maintenance,TF3 3BD
+HMRC,HMRC,07/06/2024,System Maintenance,CDIO - Core,CAPGEMINI,1900116081,"41,525.09",System Maintenance,TF3 3BD
+HMRC,HMRC,07/06/2024,Business Continuity & Disaster Recovery,CDIO - Core,FUJITSU SERVICES LTD,1900118017,"45,583.69",Business Continuity & Disaster Recovery,WA3 6GD
+HMRC,HMRC,07/06/2024,Management of Agreement & Admin Costs,CDIO - Core,FUJITSU SERVICES LTD,1900118019,"537,089.62",Management of Agreement & Admin Costs,WA3 6GD
+HMRC,HMRC,07/06/2024,Physical Hosting and Infrastructure,CDIO - Core,FUJITSU SERVICES LTD,1900118020,"40,033.16",Physical Hosting and Infrastructure,WA3 6GD
+HMRC,HMRC,07/06/2024,System Maintenance,CDIO - Core,ACCENTURE (UK) LTD,1900118023,"700,610.12",System Maintenance,EC3M 3BD
+HMRC,HMRC,07/06/2024,Utility Payments - electricity,Estates,Inspired Energy plc,1900118073,"99,438.70",Utility Payments - electricity,PR4 2TZ
+HMRC,HMRC,07/06/2024,Utility Payments - electricity,Estates,Inspired Energy plc,1900118074,"110,170.51",Utility Payments - electricity,PR4 2TZ
+HMRC,HMRC,07/06/2024,Utility Payments - electricity,Estates,Inspired Energy plc,1900118081,"48,012.53",Utility Payments - electricity,PR4 2TZ
+HMRC,HMRC,07/06/2024,Utility Payments - electricity,Estates,Inspired Energy plc,1900118082,"55,697.47",Utility Payments - electricity,PR4 2TZ
+HMRC,HMRC,07/06/2024,Utility Payments - electricity,Estates,Inspired Energy plc,1900118084,"76,907.29",Utility Payments - electricity,PR4 2TZ
+HMRC,HMRC,07/06/2024,Utility Payments - electricity,Estates,Inspired Energy plc,1900118085,"318,853.03",Utility Payments - electricity,PR4 2TZ
+HMRC,HMRC,07/06/2024,Utility Payments - electricity,Estates,Inspired Energy plc,1900118087,"63,205.52",Utility Payments - electricity,PR4 2TZ
+HMRC,HMRC,07/06/2024,Utility Payments - electricity,Estates,Inspired Energy plc,1900118088,"88,420.28",Utility Payments - electricity,PR4 2TZ
+HMRC,HMRC,07/06/2024,Utility Payments - electricity,Estates,Inspired Energy plc,1900118090,"110,817.11",Utility Payments - electricity,PR4 2TZ
+HMRC,HMRC,07/06/2024,Utility Payments - electricity,Estates,Inspired Energy plc,1900118099,"75,430.30",Utility Payments - electricity,PR4 2TZ
+HMRC,HMRC,07/06/2024,Utility Payments - electricity,Estates,Inspired Energy plc,1900118100,"91,227.44",Utility Payments - electricity,PR4 2TZ
+HMRC,HMRC,07/06/2024,Utility Payments - electricity,Estates,Inspired Energy plc,1900118101,"58,657.97",Utility Payments - electricity,PR4 2TZ
+HMRC,HMRC,07/06/2024,Utility Payments - electricity,Estates,Inspired Energy plc,1900118102,"93,546.86",Utility Payments - electricity,PR4 2TZ
+HMRC,HMRC,07/06/2024,Utility Payments - electricity,Estates,Inspired Energy plc,1900118113,"115,967.38",Utility Payments - electricity,PR4 2TZ
+HMRC,HMRC,07/06/2024,Utility Payments - electricity,Estates,Inspired Energy plc,1900118114,"49,422.41",Utility Payments - electricity,PR4 2TZ
+HMRC,HMRC,07/06/2024,Utility Payments - electricity,Estates,Inspired Energy plc,1900118115,"50,940.83",Utility Payments - electricity,PR4 2TZ
+HMRC,HMRC,07/06/2024,Utility Payments - electricity,Estates,Inspired Energy plc,1900118117,"48,780.75",Utility Payments - electricity,PR4 2TZ
+HMRC,HMRC,07/06/2024,Utility Payments - electricity,Estates,Inspired Energy plc,1900118118,"54,248.18",Utility Payments - electricity,PR4 2TZ
+HMRC,HMRC,07/06/2024,Utility Payments - electricity,Estates,Inspired Energy plc,1900118119,"31,942.61",Utility Payments - electricity,PR4 2TZ
+HMRC,HMRC,07/06/2024,Utility Payments - electricity,Estates,Inspired Energy plc,1900118122,"40,176.84",Utility Payments - electricity,PR4 2TZ
+HMRC,HMRC,07/06/2024,Utility Payments - electricity,Estates,Inspired Energy plc,1900118123,"48,783.28",Utility Payments - electricity,PR4 2TZ
+HMRC,HMRC,07/06/2024,Utility Payments - electricity,Estates,Inspired Energy plc,1900118126,"91,725.91",Utility Payments - electricity,PR4 2TZ
+HMRC,HMRC,07/06/2024,Utility Payments - electricity,Estates,Inspired Energy plc,1900118128,"48,626.34",Utility Payments - electricity,PR4 2TZ
+HMRC,HMRC,07/06/2024,Utility Payments - electricity,Estates,Inspired Energy plc,1900118129,"33,683.98",Utility Payments - electricity,PR4 2TZ
+HMRC,HMRC,07/06/2024,Utility Payments - electricity,Estates,Inspired Energy plc,1900118130,"41,417.06",Utility Payments - electricity,PR4 2TZ
+HMRC,HMRC,07/06/2024,Utility Payments - electricity,Estates,Inspired Energy plc,1900118131,"90,717.05",Utility Payments - electricity,PR4 2TZ
+HMRC,HMRC,07/06/2024,Utility Payments - electricity,Estates,Inspired Energy plc,1900118132,"117,277.62",Utility Payments - electricity,PR4 2TZ
+HMRC,HMRC,07/06/2024,Utility Payments - electricity,Estates,Inspired Energy plc,1900118133,"73,914.40",Utility Payments - electricity,PR4 2TZ
+HMRC,HMRC,07/06/2024,Utility Payments - electricity,Estates,Inspired Energy plc,1900118134,"42,301.89",Utility Payments - electricity,PR4 2TZ
+HMRC,HMRC,07/06/2024,System Maintenance,CDIO - Core,CAPGEMINI,1900118144,"791,384.86",System Maintenance,TF3 3BD
+HMRC,HMRC,07/06/2024,System Maintenance,CDIO - Core,CAPGEMINI,1900118145,"73,521.45",System Maintenance,TF3 3BD
+HMRC,HMRC,07/06/2024,Physical Hosting and Infrastructure,CDIO - Core,FUJITSU SERVICES LTD,1900118149,"150,219.93",Physical Hosting and Infrastructure,WA3 6GD
+HMRC,HMRC,07/06/2024,Physical Hosting and Infrastructure,CDIO - Core,FUJITSU SERVICES LTD,1900118151,"38,751.22",Physical Hosting and Infrastructure,WA3 6GD
+HMRC,HMRC,07/06/2024,Physical Hosting and Infrastructure,CDIO - Core,FUJITSU SERVICES LTD,1900118156,"131,705.01",Physical Hosting and Infrastructure,WA3 6GD
+HMRC,HMRC,07/06/2024,Physical Hosting and Infrastructure,CDIO - Core,FUJITSU SERVICES LTD,1900118163,"150,207.61",Physical Hosting and Infrastructure,WA3 6GD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CAPGEMINI,5100013599,"69,644.39",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,CDIO - Core,CAPGEMINI,5100013875,"88,051.17",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,CDIO - Core,CAPGEMINI,5100013876,"68,595.71",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CAPGEMINI,5100013887,"40,015.50",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CAPGEMINI,5100013893,"34,771.52",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CAPGEMINI,5100013895,"68,698.95",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CAPGEMINI,5100013902,"27,486.25",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,Contact Platform Ser,CDIO - Core,CAPGEMINI,5100013907,"28,320.09",Contact Platform Ser,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,CDIO - Core,CAPGEMINI,5100013926,"25,071.90",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,CAPGEMINI,5100013932,"173,124.96",IT Contractors ,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,CAPGEMINI,5100014018,"62,924.01",IT Contractors ,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays HMRC,CDIO - Core,CAPGEMINI,5100014026,"136,365.00",PROJECT Mandays HMRC,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CAPGEMINI,5100014032,"66,276.94",Adept & Strata - SOW Q1 & Q2 - Debt Management ,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CAPGEMINI,5100014034,"145,579.85",SOW Q1 & Q2 - Debt Management - CDCS,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CAPGEMINI,5100014042,"67,057.96",SOW Q1 Adept & Strata Remediation ,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays HMRC,Change Delivery DG & Programme Office,CAPGEMINI,5100014065,"33,203.40",CapG Client Side,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays HMRC,Change Delivery DG & Programme Office,CAPGEMINI,5100014068,"33,203.40",Client Side Resource,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,CAPGEMINI,5100014138,"34,431.72",IT Contractors ,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,CDIO - Core,CAPGEMINI,5100014139,"87,023.26",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,CDIO - Core,CAPGEMINI,5100014146,"112,902.43",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,Contact Platform Ser,CDIO - Core,CAPGEMINI,5100014148,"126,664.44",Contact Platform Ser,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,CDIO - Core,CAPGEMINI,5100014161,"35,993.38",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,CAPGEMINI,5100014169,"43,783.11",IT Contractors ,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,CDIO - Core,CAPGEMINI,5100014170,"30,965.00",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,CAPGEMINI,5100014171,"44,217.51",IT Contractors ,TF3 3BD
+HMRC,HMRC,07/06/2024,Contact Platform Ser,CDIO - Core,CAPGEMINI,5100014177,"727,248.67",Contact Platform Ser,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,CDIO Transformation Programmes,CAPGEMINI,5100014181,"23,745.84",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,CAPGEMINI,5100014184,"194,620.13",Customs Declaration Service Contractor Costs,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,FUJITSU SERVICES LTD,5100014186,"178,862.72",PVT Team for CHIEF sustainment,WA3 6GD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,FUJITSU SERVICES LTD,5100014190,"79,023.31",VAT908 Solution Design Document,WA3 6GD
+HMRC,HMRC,07/06/2024,Consultancy - Organi,Unity Business Services,ACCENTURE (UK) LTD,5100014194,"394,203.00",Strategic Consultancy Services,EC3M 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,CDIO - Core,CAPGEMINI,5100014208,"1,093,265.21",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,CDIO - Core,CAPGEMINI,5100014210,"660,526.10",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,Consultancy – IT,CDIO - Core,CAPGEMINI,5100014213,"56,351.83",Consultancy – IT,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,CDIO - Core,CAPGEMINI,5100014214,"389,687.68",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,COGNIZANT Technology Solutions,5100014215,"41,650.00",Customs Declaration Service Contractor Costs,EC2M 4AG
+HMRC,HMRC,07/06/2024,Govt dept services,CDIO - Core,HOME OFFICE,5100014216,"-48,040.00",Govt dept services,NP20 9BB
+HMRC,HMRC,07/06/2024,Govt dept services,CDIO - Core,HOME OFFICE,5100014216,"288,240.02",Govt dept services,NP20 9BB
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CAPGEMINI,5100014229,"48,206.04",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,Atos Holding UK 1 Ltd,5100014237,"30,172.01",PROJECT Mandays Supp,WC1V 6EA
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CAPGEMINI,5100014239,"23,015.21",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CAPGEMINI,5100014241,"37,246.17",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Change Delivery Making Tax Digital,Atos Holding UK 1 Ltd,5100014242,"22,654.43",PROJECT Mandays Supp,WC1V 6EA
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CAPGEMINI,5100014247,"48,215.35",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,Soft FM Services,Estates,SODEXO LTD,5100014265,"107,670.38",Soft FM Services,M50 2UE
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,CAPGEMINI,5100014267,"27,740.65",ATWD Contractor Costs,TF3 3BD
+HMRC,HMRC,07/06/2024,GovDept Serv(VAT Ex),CSG Transformation,NATIONAL SAVINGS & INVESTMENTS,5100014268,"287,554.33",GovDept Serv(VAT Ex),SW1V 2QX
+HMRC,HMRC,07/06/2024,GovDept Serv(VAT Ex),CSG Transformation,NATIONAL SAVINGS & INVESTMENTS,5100014269,"287,554.33",GovDept Serv(VAT Ex),SW1V 2QX
+HMRC,HMRC,07/06/2024,GovDept Serv(VAT Ex),CSG Transformation,NATIONAL SAVINGS & INVESTMENTS,5100014271,"816,812.38",GovDept Serv(VAT Ex),SW1V 2QX
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,Atos Holding UK 1 Ltd,5100014272,"33,928.72",ATWD Contractor Costs,WC1V 6EA
+HMRC,HMRC,07/06/2024,GovDept Serv(VAT Ex),CSG Transformation,NATIONAL SAVINGS & INVESTMENTS,5100014273,"764,097.37",GovDept Serv(VAT Ex),SW1V 2QX
+HMRC,HMRC,07/06/2024,GovDept Serv(VAT Ex),CSG Transformation,NATIONAL SAVINGS & INVESTMENTS,5100014275,"764,097.37",GovDept Serv(VAT Ex),SW1V 2QX
+HMRC,HMRC,07/06/2024,GovDept Serv(VAT Ex),Benefits & Credits Delivery,NATIONAL SAVINGS & INVESTMENTS,5100014276,"465,240.17",GovDept Serv(VAT Ex),SW1V 2QX
+HMRC,HMRC,07/06/2024,GovDept Serv(VAT Ex),CSG Transformation,NATIONAL SAVINGS & INVESTMENTS,5100014277,"1,548,318.31",GovDept Serv(VAT Ex),SW1V 2QX
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,PDC Customer Strategy & Tax Design,Atos Holding UK 1 Ltd,5100014283,"38,920.04",Software Development,WC1V 6EA
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,CAPGEMINI,5100014286,"88,106.59",ETMP & EOPS structure for ATWD,TF3 3BD
+HMRC,HMRC,07/06/2024,Cons ad imp (Ir VAT),Finance Planning & Performance,ALEXANDER MANN SOLUTIONS LTD,5100014288,"25,728.00",Cons ad imp (Ir VAT),EC2M 5TQ
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,CDIO - Core,CGI IT UK LTD,5100014442,"349,527.73",PROJECT Mandays Supp,CF31 9AP
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,CDIO - Core,CAPGEMINI,5100014443,"31,395.00",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,CDIO - Core,CAPGEMINI,5100014444,"84,257.50",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,Rent (Irrec VAT),Estates,Workman Holding Account,5100014460,"794,408.40",Rent (Irrec VAT),EC2V 6EE
+HMRC,HMRC,07/06/2024,Soft Licen Off Bespo,HMRC Strategies,BYTES SOFTWARE SERVICES LTD,5100014462,"22,950.00",Soft Licen Off Bespo,KT22 7TW
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Change Delivery Making Tax Digital,CAPGEMINI,5100014464,"14,904.27",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Change Delivery Making Tax Digital,CAPGEMINI,5100014464,"193,171.37",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Change Delivery Making Tax Digital,CAPGEMINI,5100014465,"20,339.27",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Change Delivery Making Tax Digital,CAPGEMINI,5100014465,"92,390.02",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CAPGEMINI,5100014471,"112,758.33",Cap Client Side 24,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CAPGEMINI,5100014473,"35,436.08",Capgemini ODS API Gateway team,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CAPGEMINI,5100014475,"39,064.95",CESA & IDMS,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Change Delivery Making Tax Digital,CAPGEMINI,5100014480,"32,579.73",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Change Delivery Making Tax Digital,CAPGEMINI,5100014480,"737,500.18",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Change Delivery Making Tax Digital,CAPGEMINI,5100014482,"151,324.10",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,Maintenance fees,CDIO - Core,ACCENTURE (UK) LTD,5100014484,"21,396.00",Maintenance fees,EC3M 3BD
+HMRC,HMRC,07/06/2024,Rent (Irrec VAT),Estates,TELFORD PLAZA UK LTD,5100014485,"34,351.06",Rent (Irrec VAT),W8 5UA
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Change Delivery Making Tax Digital,CAPGEMINI,5100014487,"185,028.22",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,Rent (Irrec VAT),Estates,TELFORD PLAZA UK LTD,5100014488,"34,351.06",Rent (Irrec VAT),W8 5UA
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CAPGEMINI,5100014489,"235,273.65",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,Rent (Irrec VAT),Estates,TELFORD PLAZA UK LTD,5100014490,"34,351.06",Rent (Irrec VAT),W8 5UA
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Change Delivery Making Tax Digital,CAPGEMINI,5100014491,"4,642.87",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Change Delivery Making Tax Digital,CAPGEMINI,5100014491,"35,264.88",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,Rent (Irrec VAT),Estates,TELFORD PLAZA UK LTD,5100014492,"31,677.76",Rent (Irrec VAT),W8 5UA
+HMRC,HMRC,07/06/2024,Rent (Irrec VAT),Estates,TELFORD PLAZA UK LTD,5100014495,"34,351.06",Rent (Irrec VAT),W8 5UA
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,PDC Customer Strategy & Tax Design,CAPGEMINI,5100014496,"21,388.46",Software Development,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Change Delivery Making Tax Digital,CAPGEMINI,5100014500,"181,387.27",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Change Delivery Making Tax Digital,CAPGEMINI,5100014502,"179,213.23",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Change Delivery Making Tax Digital,CAPGEMINI,5100014504,"41,499.78",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CAPGEMINI,5100014506,"117,725.84",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,CDIO - Core,Coforge,5100014511,"33,075.00",PROJECT Mandays Supp,EC3M 4AJ
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,CDIO - Core,Coforge,5100014513,"80,000.00",PROJECT Mandays Supp,EC3M 4AJ
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Compliance Operations Directorate,Coforge,5100014514,"83,000.00",PROJECT Mandays Supp,EC3M 4AJ
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Compliance Operations Directorate,Coforge,5100014515,"65,000.00",PROJECT Mandays Supp,EC3M 4AJ
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Compliance Operations Directorate,Coforge,5100014516,"65,000.00",PROJECT Mandays Supp,EC3M 4AJ
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,CDIO - Core,Coforge,5100014517,"40,000.00",PROJECT Mandays Supp,EC3M 4AJ
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,CDIO - Core,Coforge,5100014518,"40,000.00",PROJECT Mandays Supp,EC3M 4AJ
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Change Delivery Making Tax Digital,CAPGEMINI,5100014530,"56,918.14",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Change Delivery Making Tax Digital,CAPGEMINI,5100014532,"99,097.73",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Change Delivery Making Tax Digital,CAPGEMINI,5100014533,"26,623.12",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,Consultancy – IT,Solicitor's Office & Legal Services,COGNIZANT Technology Solutions,5100014540,"38,073.00",Consultancy - IT,EC2M 4AG
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Change Delivery Making Tax Digital,CAPGEMINI,5100014544,"171,964.75",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,Consultancy – IT,Solicitor's Office & Legal Services,COGNIZANT Technology Solutions,5100014546,"38,073.00",Consultancy - IT,EC2M 4AG
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Change Delivery Making Tax Digital,CAPGEMINI,5100014547,"26,373.69",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,CAPGEMINI,5100014566,"126,732.89",IT Contractors ,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Unity Business Services,CGI IT UK LTD,5100014567,"45,479.25",Project SupportLabour Hours,CF31 9AP
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Change Delivery Making Tax Digital,CAPGEMINI,5100014573,"45,612.14",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,07/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,CAPGEMINI,5100014578,"41,732.86",IT Contractors ,TF3 3BD
+HMRC,HMRC,07/06/2024,SW Lic Sup mngd Serv,CDIO - Core,BYTES SOFTWARE SERVICES LTD,5100014593,"88,380.01",SW Lic Sup mngd Serv,KT22 7TW
+HMRC,HMRC,10/06/2024,System Maintenance,CDIO - Core,CAPGEMINI,1900116078,"1,549,291.14",System Maintenance,TF3 3BD
+HMRC,HMRC,10/06/2024,System Maintenance,CDIO - Core,CAPGEMINI,1900119668,"108,664.49",System Maintenance,TF3 3BD
+HMRC,HMRC,10/06/2024,System Maintenance,CDIO - Core,CAPGEMINI,1900119669,"305,756.80",System Maintenance,TF3 3BD
+HMRC,HMRC,10/06/2024,System Maintenance,CDIO - Core,CAPGEMINI,1900119670,"39,569.17",System Maintenance,TF3 3BD
+HMRC,HMRC,10/06/2024,System Maintenance,CDIO - Core,CAPGEMINI,1900119672,"27,653.99",System Maintenance,TF3 3BD
+HMRC,HMRC,10/06/2024,System Maintenance,CDIO - Core,CAPGEMINI,1900119673,"732,840.39",System Maintenance,TF3 3BD
+HMRC,HMRC,10/06/2024,Conferences,Fraud Investigation Service,CALDER CONFERENCES LTD,1900119708,"35,688.00",Conferences,LS16 6RF
+HMRC,HMRC,10/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CAPGEMINI,5100013928,"66,379.10",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,10/06/2024,PROJECT Mandays Supp,CDIO - Core,CAPGEMINI,5100014212,"1,892,218.71",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,10/06/2024,Rent (Irrec VAT),Estates,Workman Holding Account,5100014455,"1,286,348.10",Rent (Irrec VAT),EC2V 6EE
+HMRC,HMRC,10/06/2024,Business Rates,Estates,BRISTOL CITY COUNCIL,5100014463,"502,101.60",Business Rates,BS99 1ZG
+HMRC,HMRC,10/06/2024,Business Rates,Estates,BRISTOL CITY COUNCIL,5100014463,"819,218.40",Business Rates,BS99 1ZG
+HMRC,HMRC,10/06/2024,PROJECT Mandays Supp,CDIO - Core,Coforge,5100014519,"60,000.00",PROJECT Mandays Supp,EC3M 4AJ
+HMRC,HMRC,10/06/2024,PROJECT Mandays Supp,CDIO - Core,Coforge,5100014520,"85,000.00",PROJECT Mandays Supp,EC3M 4AJ
+HMRC,HMRC,10/06/2024,PROJECT Mandays Supp,CDIO - Core,Coforge,5100014521,"85,000.00",PROJECT Mandays Supp,EC3M 4AJ
+HMRC,HMRC,10/06/2024,PROJECT Mandays Supp,CDIO - Core,Coforge,5100014522,"85,000.00",PROJECT Mandays Supp,EC3M 4AJ
+HMRC,HMRC,10/06/2024,PROJECT Mandays Supp,CDIO - Core,Coforge,5100014523,"60,000.00",PROJECT Mandays Supp,EC3M 4AJ
+HMRC,HMRC,10/06/2024,Physical Hosting,CDIO - Core,FUJITSU SERVICES LTD,5100014599,"91,696.91",Physical Hosting,WA3 6GD
+HMRC,HMRC,10/06/2024,VOA,Wealthy & Mid-sized Business Compliance,VALUATION OFFICE AGENCY,5100014622,"683,333.00",Monthly payment to Valuation Office for Inheritance,W1D 5BU
+HMRC,HMRC,10/06/2024,PROJECT Mandays Supp,CDIO - Core,FUJITSU SERVICES LTD,5100014623,"184,028.25",PROJECT Mandays Supp,WA3 6GD
+HMRC,HMRC,10/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,PEGASYSTEMS LTD,5100014634,"303,790.00",PROJECT Mandays Supp,RG1 3JH
+HMRC,HMRC,10/06/2024,PROJECT Mandays HMRC,CDIO - Core,PEGASYSTEMS LTD,5100014635,"48,216.00",PROJECT Mandays HMRC,RG1 3JH
+HMRC,HMRC,10/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CAPGEMINI,5100014642,"100,454.41",CESA to CDCS - Self Assessment - CESA Impacting and Delivery request,TF3 3BD
+HMRC,HMRC,10/06/2024,PROJECT Mandays Supp,PDC Customer Strategy & Tax Design,ACCENTURE (UK) LTD,5100014645,"22,075.00",Software Development,EC3M 3BD
+HMRC,HMRC,10/06/2024,PROJECT Mandays Supp,CSG Strategy and Change,CAPGEMINI,5100014651,"25,269.62",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,10/06/2024,PROJECT Mandays HMRC,Change Delivery DG & Programme Office,DELOITTE LLP (L),5100014653,"132,780.00",ETMP Services - Solution Architect Resource,MK9 1FD
+HMRC,HMRC,10/06/2024,PROJECT Mandays HMRC,Unity Business Services,Baringa Partners LLP,5100014737,"199,594.92",Project Support Labour Hours,SW1E 6AJ
+HMRC,HMRC,10/06/2024,PROJECT Mandays HMRC,Change Delivery DG & Programme Office,PEGASYSTEMS LTD,5100014746,"104,580.00",Q2 & Q1 SOW Pega Q1 24/25 (DM Resource),RG1 3JH
+HMRC,HMRC,10/06/2024,Business Rates,Estates,LIVERPOOL CITY COUNCIL,5100014799,"221,130.00",Business Rates,L69 2DQ
+HMRC,HMRC,10/06/2024,Business Rates,Estates,LIVERPOOL CITY COUNCIL,5100014799,"1,253,070.00",Business Rates,L69 2DQ
+HMRC,HMRC,10/06/2024,PROJECT Mandays Supp,CDIO - Core,ACCENTURE (UK) LTD,5100014807,"36,186.00",PROJECT Mandays Supp,EC3M 3BD
+HMRC,HMRC,10/06/2024,Project support,Government Banking and Payments,BARCLAYS BANK PLC T/A BARCLAYCARD,5100014808,"15,344.65",Banking finance and payments,E14 5HP
+HMRC,HMRC,10/06/2024,GBS Operational bank,Government Banking and Payments,BARCLAYS BANK PLC T/A BARCLAYCARD,5100014808,"937,315.40",Banking finance and payments,E14 5HP
+HMRC,HMRC,10/06/2024,Business Rates,Estates,MILTON KEYNES BOROUGH COUNCIL,5100014810,"115,479.00",Business Rates,MK9 3WB
+HMRC,HMRC,10/06/2024,Business Rates,Estates,MILTON KEYNES BOROUGH COUNCIL,5100014810,"654,381.00",Business Rates,MK9 3WB
+HMRC,HMRC,10/06/2024,Soft FM Services,Estates,SODEXO LTD,5100014811,"67,076.25",Soft FM Services,M50 2UE
+HMRC,HMRC,10/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,Atos Holding UK 1 Ltd,5100014837,"56,035.00",IT Contractors ,WC1V 6EA
+HMRC,HMRC,10/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,FUJITSU SERVICES LTD,5100014846,"32,907.12",PROJECT Mandays Supp,WA3 6GD
+HMRC,HMRC,10/06/2024,Cons ad imp (Ir VAT),Change Delivery DG & Programme Office,Posterity Milestone Consortium,5100014848,"56,700.00",Cons ad imp (Ir VAT),FY8 4QZ
+HMRC,HMRC,10/06/2024,Debt coll serv (DEL),Debt Management,TDX GROUP LTD,5100014854,"54,775.27",Debt coll serv (DEL),LS1 4AP
+HMRC,HMRC,10/06/2024,Lifecycle Replace,Estates,Wates Property Services Ltd,5100014855,"82,646.40",Lifecycle Replace,EN1 3XA
+HMRC,HMRC,11/06/2024,Project Development,Knowledge Analysis & Intelligence,EQUAL EXPERTS UK LTD,1900119814,"114,819.12",IT Project Development,AL1 5HE
+HMRC,HMRC,11/06/2024,Cycle Purchase for Staff - Cycle to Work Scheme,HMRC,EDENRED (UK GROUP) LTD (CYCLE TO WO,1900119835,"70,754.14",Cycle Purchase for Staff - Cycle to Work Scheme,SW1V 2RS
+HMRC,HMRC,11/06/2024,Physical Hosting and Infrastructure,CDIO - Core,FUJITSU SERVICES LTD,1900119892,"38,153.72",Physical Hosting and Infrastructure,WA3 6GD
+HMRC,HMRC,11/06/2024,Physical Hosting and Infrastructure,CDIO - Core,FUJITSU SERVICES LTD,1900119894,"480,875.23",Physical Hosting and Infrastructure,WA3 6GD
+HMRC,HMRC,11/06/2024,System Maintenance,CDIO - Core,CAPGEMINI,1900119897,"24,072.78",System Maintenance,TF3 3BD
+HMRC,HMRC,11/06/2024,System Maintenance,CDIO - Core,CAPGEMINI,1900119898,"203,542.55",System Maintenance,TF3 3BD
+HMRC,HMRC,11/06/2024,Physical Hosting and Infrastructure,CDIO - Core,FUJITSU SERVICES LTD,1900119916,"32,775.57",Physical Hosting and Infrastructure,WA3 6GD
+HMRC,HMRC,11/06/2024,Virtual Hosting and Infrastructure,CDIO - Core,Amazon Web Services UK,1900119932,"3,834,603.19",Virtual Hosting and Infrastructure,EC2A 2FA
+HMRC,HMRC,11/06/2024,PROJECT Mandays Supp,Risk & Intelligence,CAPGEMINI,5100014858,"90,126.06",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,11/06/2024,PROJECT Mandays Supp,Risk & Intelligence,CAPGEMINI,5100014861,"123,393.88",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,11/06/2024,PROJECT Mandays Supp,Risk & Intelligence,CAPGEMINI,5100014862,"52,313.36",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,11/06/2024,PROJECT Mandays Supp,Risk & Intelligence,CAPGEMINI,5100014866,"21,409.77",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,11/06/2024,Debt coll serv (DEL),Debt Management,TDX GROUP LTD,5100014867,"3,754,303.46",Debt coll serv (DEL),LS1 4AP
+HMRC,HMRC,11/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CAPGEMINI,5100014869,"52,855.63",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,11/06/2024,Debt coll serv (DEL),Debt Management,TDX GROUP LTD,5100014871,"106,106.05",Debt coll serv (DEL),LS1 4AP
+HMRC,HMRC,11/06/2024,PROJECT Mandays Supp,Operational Excellence & Output Mgmt,ACCENTURE (UK) LTD,5100014872,"28,428.62",PROJECT Mandays Supp,EC3M 3BD
+HMRC,HMRC,11/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CAPGEMINI,5100014875,"23,648.12",ETMP VAT Projects Discovery - May Days,TF3 3BD
+HMRC,HMRC,11/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,FUJITSU SERVICES LTD,5100014884,"181,659.96",PROJECT Mandays Supp,WA3 6GD
+HMRC,HMRC,11/06/2024,Rent (Irrec VAT),Estates,Workman Holding Account,5100014889,"8,049.42",Rent (Irrec VAT),EC2V 6EE
+HMRC,HMRC,11/06/2024,Rent (Irrec VAT),Estates,Workman Holding Account,5100014889,"49,446.44",Rent (Irrec VAT),EC2V 6EE
+HMRC,HMRC,11/06/2024,PROJECT Mandays Supp,CDIO - Core,CAPGEMINI,5100014890,"24,314.03",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,11/06/2024,PROJECT Mandays Supp,CDIO - Core,CAPGEMINI,5100014916,"40,978.08",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,11/06/2024,PROJECT Mandays Supp,CSG Strategy and Change,CAPGEMINI,5100014934,"30,200.74",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,11/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CAPGEMINI,5100014939,"60,372.60",Project Development Mandays for Pension Scheme Report,TF3 3BD
+HMRC,HMRC,11/06/2024,PROJECT Mandays HMRC,CDIO - Core,VERSION 1 SOLUTIONS LTD,5100014944,"48,045.00",PROJECT Mandays HMRC,B97 4DL
+HMRC,HMRC,11/06/2024,PROJECT Mandays HMRC,CDIO - Core,VERSION 1 SOLUTIONS LTD,5100014945,"26,625.00",PROJECT Mandays HMRC,B97 4DL
+HMRC,HMRC,11/06/2024,PROJECT Mandays HMRC,CDIO - Core,VERSION 1 SOLUTIONS LTD,5100014947,"89,310.00",PROJECT Mandays HMRC,B97 4DL
+HMRC,HMRC,11/06/2024,PROJECT Mandays Supp,CDIO - Core,Coforge,5100014950,"88,200.00",PROJECT Mandays Supp,EC3M 4AJ
+HMRC,HMRC,11/06/2024,Minor Wrks Irrec VAT,Estates,Senator International Ltd,5100014967,"28,925.32",Minor Wrks Irrec VAT,BB5 5YE
+HMRC,HMRC,11/06/2024,Maintenance fees,Debt Management,CAPGEMINI,5100014969,"27,581.45",Maintenance fees,TF3 3BD
+HMRC,HMRC,11/06/2024,Physical Data Transf,Risk & Intelligence,BUTTERFLY PROJECTS LTD,5100014974,"72,284.50",Physical Data Transf,CF83 3GG
+HMRC,HMRC,11/06/2024,Facilities Mngmnt,Estates,OCS UK&I LIMITED,5100014975,"320,874.51",Facilities Mngmnt,IP28 6LG
+HMRC,HMRC,11/06/2024,PROJECT Mandays Supp,Risk & Intelligence,BAE SYSTEMS APPLIED INTELLIGENCE,5100014992,"112,822.18",PROJECT Mandays Supp,GU2 7RQ
+HMRC,HMRC,11/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,Atos Holding UK 1 Ltd,5100015002,"-3,869,635.27",Customs Declaration Service Contractor Costs,WC1V 6EA
+HMRC,HMRC,11/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,Atos Holding UK 1 Ltd,5100015002,"5,060,495.00",Customs Declaration Service Contractor Costs,WC1V 6EA
+HMRC,HMRC,11/06/2024,PROJECT Mandays Supp,CDIO Transformation Programmes,FUJITSU SERVICES LTD,5100015057,"23,897.76",PROJECT Mandays Supp,WA3 6GD
+HMRC,HMRC,11/06/2024,PROJECT Mandays Supp,CSG Strategy and Change,CAPGEMINI,5100015058,"120,062.00",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,11/06/2024,Physical Hosting,CDIO - Core,Crown Hosting Data Centres Ltd,5100015060,"212,858.98",Physical Hosting,SN13 9GB
+HMRC,HMRC,11/06/2024,Prop. Man. (Ir VAT),Estates,MIDOS PROPERTIES MANAGEMENT LIMITED,5100015064,"9,340.08",Prop. Man. (Ir VAT),N16 5LG
+HMRC,HMRC,11/06/2024,Rent (Irrec VAT),Estates,MIDOS PROPERTIES MANAGEMENT LIMITED,5100015064,"835,800.00",Rent (Irrec VAT),N16 5LG
+HMRC,HMRC,11/06/2024,Soft Licen Off shelf,CDIO - Core,EBSCO INTERNATIONAL PLC,5100015071,"2,960.40",Soft Licen Off shelf,EN1 3XA
+HMRC,HMRC,11/06/2024,Electronic magazines,CDIO - Core,EBSCO INTERNATIONAL PLC,5100015071,"30,210.00",Electronic magazines,EN1 3XA
+HMRC,HMRC,11/06/2024,Contin Labor Run,HMRC Security,BSI CYBERSECURITY AND INFORMATION,5100015074,"34,650.00",Contin Labor Run,MK5 8PP
+HMRC,HMRC,12/06/2024,Telephony Services,CDIO - Core,GAMMA TELECOM LTD,1900128298,"194,055.48",Telephony Services,RG14 5BY
+HMRC,HMRC,12/06/2024,Telephony Services,CDIO - Core,GAMMA TELECOM LTD,1900128299,"72,428.23",Telephony Services,RG14 5BY
+HMRC,HMRC,12/06/2024,Physical Hosting and Infrastructure,CDIO - Core,FUJITSU SERVICES LTD,1900128303,"230,403.87",Physical Hosting and Infrastructure,WA3 6GD
+HMRC,HMRC,12/06/2024,Virtual Hosting and Infrastructure,CDIO - Core,FUJITSU SERVICES LTD,1900128305,"67,934.11",Virtual Hosting and Infrastructure,WA3 6GD
+HMRC,HMRC,12/06/2024,Contracted Services,Operational Excellence & Output Mgmt,RESTORE DIGITAL LTD,1900128484,"21,423.23",Contracted Services,WV14 0UJ
+HMRC,HMRC,12/06/2024,Contracted Services,Operational Excellence & Output Mgmt,RESTORE DIGITAL LTD,1900128485,"25,828.35",Contracted Services,WV14 0UJ
+HMRC,HMRC,12/06/2024,Contracted Services,Operational Excellence & Output Mgmt,RESTORE DIGITAL LTD,1900128486,"481,034.16",Contracted Services,WV14 0UJ
+HMRC,HMRC,12/06/2024,Contracted Services,Operational Excellence & Output Mgmt,RESTORE DIGITAL LTD,1900128488,"102,138.00",Contracted Services,WV14 0UJ
+HMRC,HMRC,12/06/2024,Project Development,CDIO - Core,NATWEST- INTERNAL HMRC USE ONLY,1900128519,"40,060.36",Project Development,ST5 0QX
+HMRC,HMRC,12/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,FUJITSU SERVICES LTD,5100015077,"32,623.09",VAT908 Solution Design Document,WA3 6GD
+HMRC,HMRC,12/06/2024,Contin Labor Run,HMRC Security,BSI CYBERSECURITY AND INFORMATION,5100015081,"78,300.00",Contin Labor Run,MK5 8PP
+HMRC,HMRC,12/06/2024,Research conslt serv,HR,ALMA ECONOMICS LIMITED,5100015083,"55,980.00",Research Services,SE1 3PL
+HMRC,HMRC,12/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,ALEXANDER MANN SOLUTIONS LTD,5100015109,"45,610.00",Accenture CHIEF Decommissioning Assurance ,EC2M 5TQ
+HMRC,HMRC,12/06/2024,Soft Licen Integral,CDIO - Core,TOTAL COMPUTER NETWORKS LTD,5100015112,"21,400.00",Soft Licen Integral,NN16 8GA
+HMRC,HMRC,12/06/2024,PROJECT Mandays Supp,CCG Transformation Programmes,SAS SOFTWARE LTD,5100015118,"23,646.75",PROJECT Mandays Supp,SL7 2EB
+HMRC,HMRC,12/06/2024,Contin Labor Run,CDIO - Core,BSI CYBERSECURITY AND INFORMATION,5100015125,"37,860.00",Contin Labor Run,MK5 8PP
+HMRC,HMRC,12/06/2024,Consultancy – IT,CCG Transformation Programmes,BUTTERFLY PROJECTS LTD,5100015127,"28,020.00",Consultancy – IT,CF83 3GG
+HMRC,HMRC,12/06/2024,Virtual Hosting,CDIO - Core,FUJITSU SERVICES LTD,5100015142,"42,186.17",Virtual Hosting,WA3 6GD
+HMRC,HMRC,12/06/2024,PROJECT Mandays HMRC,CDIO - Core,COGNIZANT Technology Solutions,5100015154,"120,379.20",PROJECT Mandays HMRC,EC2M 4AG
+HMRC,HMRC,12/06/2024,Subscriptions to Pub,CDIO - Core,TRANSUNION INTERNATIONAL UK LTD,5100015155,"128,302.27",Subscriptions to Publications,LS3 1EP
+HMRC,HMRC,12/06/2024,PROJECT Mandays Supp,CDIO - Core,COGNIZANT Technology Solutions,5100015158,"28,212.00",PROJECT Mandays Supp,EC2M 4AG
+HMRC,HMRC,12/06/2024,Soft FM Services,Estates,OCS UK&I LIMITED,5100015164,"468,988.01",Soft FM Services,IP28 6LG
+HMRC,HMRC,12/06/2024,PROJECT Mandays Supp,CCG Transformation Programmes,SAS SOFTWARE LTD,5100015170,"23,101.88",PROJECT Mandays Supp,SL7 2EB
+HMRC,HMRC,12/06/2024,PROJECT Mandays Supp,CCG Transformation Programmes,SAS SOFTWARE LTD,5100015172,"30,469.50",PROJECT Mandays Supp,SL7 2EB
+HMRC,HMRC,12/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CAPGEMINI,5100015347,"21,998.56",Project Development Mandays for LTA Abolition Overseas Charges Transfer,TF3 3BD
+HMRC,HMRC,12/06/2024,Contin Labor Run,HMRC Security,BSI CYBERSECURITY AND INFORMATION,5100015350,"34,500.00",Contin Labor Run,MK5 8PP
+HMRC,HMRC,12/06/2024,Business Rates,Estates,CITY OF EDINBURGH COUNCIL,5100015351,"762,168.55",Business Rates,EH11 3YJ
+HMRC,HMRC,12/06/2024,Business Rates,Estates,CITY OF EDINBURGH COUNCIL,5100015351,"1,297,746.45",Business Rates,EH11 3YJ
+HMRC,HMRC,12/06/2024,Property mgmt. ser.,Estates,LAMBERT SMITH HAMPTON,5100015352,"14,317.75",Property mgmt. ser.,NG1 5FS
+HMRC,HMRC,12/06/2024,Facility rental,Estates,LAMBERT SMITH HAMPTON,5100015352,"20,933.00",Facility rental,NG1 5FS
+HMRC,HMRC,12/06/2024,Contin Labor Run,HMRC Security,BSI CYBERSECURITY AND INFORMATION,5100015358,"25,500.00",Contin Labor Run,MK5 8PP
+HMRC,HMRC,12/06/2024,Contin Labor Run,HMRC Security,BSI CYBERSECURITY AND INFORMATION,5100015361,"30,000.00",Contin Labor Run,MK5 8PP
+HMRC,HMRC,12/06/2024,Contin Labor Run,HMRC Security,BSI CYBERSECURITY AND INFORMATION,5100015369,"29,580.00",Contin Labor Run,MK5 8PP
+HMRC,HMRC,12/06/2024,Contin Labor Run,HMRC Security,BSI CYBERSECURITY AND INFORMATION,5100015370,"26,400.00",Contin Labor Run,MK5 8PP
+HMRC,HMRC,12/06/2024,GovDept Serv(VAT Ex),CSG Transformation,NATIONAL SAVINGS & INVESTMENTS,5100015373,"1,220,337.12",GovDept Serv(VAT Ex),SW1V 2QX
+HMRC,HMRC,12/06/2024,GovDept Serv(VAT Ex),CSG Transformation,NATIONAL SAVINGS & INVESTMENTS,5100015374,"1,220,337.12",GovDept Serv(VAT Ex),SW1V 2QX
+HMRC,HMRC,12/06/2024,GovDept Serv(VAT Ex),Benefits & Credits Delivery,NATIONAL SAVINGS & INVESTMENTS,5100015375,"305,084.29",GovDept Serv(VAT Ex),SW1V 2QX
+HMRC,HMRC,12/06/2024,GovDept Serv(VAT Ex),Benefits & Credits Delivery,NATIONAL SAVINGS & INVESTMENTS,5100015377,"305,084.29",GovDept Serv(VAT Ex),SW1V 2QX
+HMRC,HMRC,12/06/2024,PROJECT Mandays Supp,CCG Transformation Programmes,CAPGEMINI,5100015385,"116,104.51",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,12/06/2024,PROJECT Mandays Supp,Change Delivery Making Tax Digital,CAPGEMINI,5100015387,"35,765.52",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,12/06/2024,Contin Labor Run,HMRC Security,BSI CYBERSECURITY AND INFORMATION,5100015393,"34,650.00",Contin Labor Run,MK5 8PP
+HMRC,HMRC,12/06/2024,PROJECT Mandays Supp,CCG Transformation Programmes,CAPGEMINI,5100015394,"622,519.69",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,12/06/2024,Contin Labor Build,Change Delivery Making Tax Digital,Atos Holding UK 1 Ltd,5100015397,"30,197.80",Contin Labor Build,WC1V 6EA
+HMRC,HMRC,12/06/2024,PROJECT Mandays Supp,Change Delivery Making Tax Digital,Atos Holding UK 1 Ltd,5100015398,"24,590.21",PROJECT Mandays Supp,WC1V 6EA
+HMRC,HMRC,12/06/2024,Facilities Mngmnt,Estates,BELLROCK PROPERTY & FACILITIES,5100015399,"137,749.63",Facilities Mngmnt,LE1 6LP
+HMRC,HMRC,12/06/2024,Facilities Mngmnt,Estates,BELLROCK PROPERTY & FACILITIES,5100015400,"68,397.42",Facilities Mngmnt,LE1 6LP
+HMRC,HMRC,12/06/2024,Block Charges,Risk & Intelligence,FOREIGN COMMONWEALTH & DEVELOPMENT,5100015402,"32,795.61",Block Charges,G75 8EA
+HMRC,HMRC,12/06/2024,Contin Labor Run,HMRC Security,BSI CYBERSECURITY AND INFORMATION,5100015405,"34,650.00",Contin Labor Run,MK5 8PP
+HMRC,HMRC,12/06/2024,PROJECT Mandays Supp,Unity Business Services,CAPGEMINI,5100015406,"5,320.49",Project Support Labour Hours,TF3 3BD
+HMRC,HMRC,12/06/2024,PROJECT Mandays Supp,Unity Business Services,CAPGEMINI,5100015406,"18,912.67",Project Support Labour Hours,TF3 3BD
+HMRC,HMRC,12/06/2024,Contin Labor Run,HMRC Security,BSI CYBERSECURITY AND INFORMATION,5100015407,"27,225.00",Contin Labor Run,MK5 8PP
+HMRC,HMRC,12/06/2024,Contin Labor Run,HMRC Security,BSI CYBERSECURITY AND INFORMATION,5100015408,"78,300.00",Contin Labor Run,MK5 8PP
+HMRC,HMRC,12/06/2024,Contin Labor Run,HMRC Security,BSI CYBERSECURITY AND INFORMATION,5100015409,"42,075.00",Contin Labor Run,MK5 8PP
+HMRC,HMRC,12/06/2024,Contin Labor Run,HMRC Security,BSI CYBERSECURITY AND INFORMATION,5100015410,"29,287.50",Contin Labor Run,MK5 8PP
+HMRC,HMRC,12/06/2024,Sys Software Maint,Customs Policy and Strategy,ENGINE PARTNERS UK LLP,5100015413,"150,765.63",Sys Software Maint,W1W 7RT
+HMRC,HMRC,12/06/2024,Sys Software Maint,Customs Policy and Strategy,ENGINE PARTNERS UK LLP,5100015414,"134,253.33",Sys Software Maint,W1W 7RT
+HMRC,HMRC,12/06/2024,Sys Software Maint,Customs Policy and Strategy,ENGINE PARTNERS UK LLP,5100015415,"116,423.33",Sys Software Maint,W1W 7RT
+HMRC,HMRC,13/06/2024,Tribunal appellant costs,Solicitor's Office & Legal Services,Test Claimants in FII Group Income ,1900128601,"950,000.00",Costs awarded against department,WV1V 7EE
+HMRC,HMRC,13/06/2024,Tribunal appellant costs,Solicitor's Office & Legal Services,Euromoney Institutional Investor PLC,1900128605,"314,500.00",Costs awarded against department,E14 5GL
+HMRC,HMRC,13/06/2024,Tribunal appellant costs,Solicitor's Office & Legal Services,Euromoney Institutional Investor PLC,1900128612,"148,100.00",Costs awarded against department,E14 5GL
+HMRC,HMRC,13/06/2024,Tribunal appellant costs,Solicitor's Office & Legal Services,Innovative Bites Ltd c/o The VAT Consultancy,1900128613,"34,672.00",Costs awarded against department,TW12 9DL
+HMRC,HMRC,13/06/2024,Contracted Services,Operational Excellence & Output Mgmt,RESTORE DIGITAL LTD,1900128614,"70,592.09",Contracted Services,WV14 0UJ
+HMRC,HMRC,13/06/2024,Desktop Services,CDIO - Core,FUJITSU SERVICES LTD,1900128620,"268,796.43",Desktop Services,WA3 6GD
+HMRC,HMRC,13/06/2024,Desktop Services,CDIO - Core,FUJITSU SERVICES LTD,1900128625,"147,236.38",Desktop Services,WA3 6GD
+HMRC,HMRC,13/06/2024,Desktop Services,CDIO - Core,FUJITSU SERVICES LTD,1900128627,"54,753.42",Desktop Services,WA3 6GD
+HMRC,HMRC,13/06/2024,Desktop Services,CDIO - Core,FUJITSU SERVICES LTD,1900128628,"41,740.62",Desktop Services,WA3 6GD
+HMRC,HMRC,13/06/2024,Desktop Services,CDIO - Core,FUJITSU SERVICES LTD,1900128629,"59,391.87",Desktop Services,WA3 6GD
+HMRC,HMRC,13/06/2024,Desktop Services,CDIO - Core,FUJITSU SERVICES LTD,1900128630,"96,187.08",Desktop Services,WA3 6GD
+HMRC,HMRC,13/06/2024,Desktop Services,CDIO - Core,FUJITSU SERVICES LTD,1900128633,"416,666.67",Desktop Services,WA3 6GD
+HMRC,HMRC,13/06/2024,Desktop Services,CDIO - Core,FUJITSU SERVICES LTD,1900128634,"52,003.65",Desktop Services,WA3 6GD
+HMRC,HMRC,13/06/2024,Desktop Services,CDIO - Core,FUJITSU SERVICES LTD,1900128637,"156,005.59",Desktop Services,WA3 6GD
+HMRC,HMRC,13/06/2024,Desktop Services,CDIO - Core,FUJITSU SERVICES LTD,1900128638,"161,143.34",Desktop Services,WA3 6GD
+HMRC,HMRC,13/06/2024,Desktop Services,CDIO - Core,FUJITSU SERVICES LTD,1900128640,"61,094.63",Desktop Services,WA3 6GD
+HMRC,HMRC,13/06/2024,Desktop Services,CDIO - Core,FUJITSU SERVICES LTD,1900128667,"235,956.29",Desktop Services,WA3 6GD
+HMRC,HMRC,13/06/2024,Contin Labor Build,B&T Border Change Delivery,COGNIZANT Technology Solutions,5100015419,"239,089.00",Customs Declaration Service Contractor Costs,EC2M 4AG
+HMRC,HMRC,13/06/2024,PROJECT Mandays Supp,CDIO - Core,CAPGEMINI,5100015422,"22,340.00",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,13/06/2024,PROJECT Mandays Supp,CDIO - Core,CAPGEMINI,5100015424,"43,544.00",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,13/06/2024,PROJECT Mandays Supp,CDIO - Core,CAPGEMINI,5100015426,"55,280.00",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,13/06/2024,PROJECT Mandays Supp,CDIO - Core,CAPGEMINI,5100015428,"68,183.86",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,13/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,Department for Work and Pensions,5100015430,"41,666.67",PROJECT Mandays Supp,FY5 3TA
+HMRC,HMRC,13/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,Automation Logic,5100015435,"118,566.00",Customs Declaration Service Contractor Costs,EC3V 1LP
+HMRC,HMRC,13/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,Automation Logic,5100015437,"102,140.00",Customs Declaration Service Contractor Costs,EC3V 1LP
+HMRC,HMRC,13/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CAPGEMINI,5100015438,"-36,368.09",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,13/06/2024,PROJECT Mandays Supp,PDC Customer Strategy & Tax Design,CAPGEMINI,5100015449,"30,314.50",Software Development,TF3 3BD
+HMRC,HMRC,13/06/2024,Internat. Courier,Operational Excellence & Output Mgmt,G3 WORLDWIDE (UK) LTD,5100015457,"85,564.33",Internat. Courier,UB2 5LF
+HMRC,HMRC,13/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,ACCENTURE (UK) LTD,5100015469,"29,660.27",IT Contractors ,EC3M 3BD
+HMRC,HMRC,13/06/2024,Project support,CDIO - Core,BUTTERFLY PROJECTS LTD,5100015470,"53,458.80",Project support,CF83 3GG
+HMRC,HMRC,13/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,ACCENTURE (UK) LTD,5100015471,"29,660.27",IT Contractors ,EC3M 3BD
+HMRC,HMRC,13/06/2024,Cons ad imp (Ir VAT),CCG Transformation,Baringa Partners LLP,5100015473,"40,320.00",Cons ad imp (Ir VAT),SW1E 6AJ
+HMRC,HMRC,13/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CAPGEMINI,5100015477,"30,296.81",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,13/06/2024,PROJECT Mandays HMRC,Change Delivery DG & Programme Office,CAPGEMINI,5100015478,"29,526.00",PROJECT Mandays HMRC,TF3 3BD
+HMRC,HMRC,13/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CAPGEMINI,5100015479,"61,007.54",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,13/06/2024,Cons ad imp (Ir VAT),Change Delivery DG & Programme Office,ERNST & YOUNG LLP,5100015481,"154,346.40",Cons ad imp (Ir VAT),SE1 2AF
+HMRC,HMRC,13/06/2024,Govt dept services,CFO Transformation Programmes,AECOM LTD,5100015485,"48,644.42",Telford Specialist Site.  Professional Services - Project Support. May 24,G2 7ER
+HMRC,HMRC,13/06/2024,Govt dept services,CFO Transformation Programmes,AECOM LTD,5100015486,"144,315.06",Telford Specialist Site.  Professional Services - Project Support. May 24,G2 7ER
+HMRC,HMRC,13/06/2024,PROJECT Mandays HMRC,CDIO - Core,CAPGEMINI,5100015490,"27,064.75",PROJECT Mandays HMRC,TF3 3BD
+HMRC,HMRC,13/06/2024,PROJECT Mandays Supp,CDIO - Core,COGNIZANT Technology Solutions,5100015492,"164,159.00",PROJECT Mandays Supp,EC2M 4AG
+HMRC,HMRC,13/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,COGNIZANT Technology Solutions,5100015493,"143,054.00",IT Contractors ,EC2M 4AG
+HMRC,HMRC,13/06/2024,Cons ad imp (Ir VAT),CCG Transformation,Baringa Partners LLP,5100015608,"35,466.95",Cons ad imp (Ir VAT),SW1E 6AJ
+HMRC,HMRC,13/06/2024,Cons ad imp (Ir VAT),CCG Transformation,Baringa Partners LLP,5100015610,"42,840.00",Cons ad imp (Ir VAT),SW1E 6AJ
+HMRC,HMRC,13/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,COGNIZANT Technology Solutions,5100015676,"48,407.55",Customs Declaration Service Contractor Costs,EC2M 4AG
+HMRC,HMRC,13/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,CAPGEMINI,5100015701,"52,156.50",IT Contractors ,TF3 3BD
+HMRC,HMRC,13/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CGI IT UK LTD,5100015703,"44,789.10",PROJECT Mandays Supp,CF31 9AP
+HMRC,HMRC,13/06/2024,PROJECT Mandays Supp,HMRC Change Delivery Group,CGI IT UK LTD,5100015705,"36,295.51",PROJECT Mandays Supp,CF31 9AP
+HMRC,HMRC,13/06/2024,PROJECT Mandays Supp,Indirect Tax Directorate,STREEVA LTD,5100015710,"98,067.34",PROJECT Mandays Supp,TR27 5EX
+HMRC,HMRC,13/06/2024,PROJECT Mandays Supp,CDIO - Core,Pennant International Limited,5100015713,"133,275.75",PROJECT Mandays Supp,GL51 6TL
+HMRC,HMRC,13/06/2024,PROJECT Mandays Supp,CDIO - Core,CGI IT UK LTD,5100015719,"50,544.70",PROJECT Mandays Supp,CF31 9AP
+HMRC,HMRC,14/06/2024,Utility Payments - electricity,Estates,Inspired Energy plc,1900129091,"30,817.80",Utility Payments - electricity,PR4 2TZ
+HMRC,HMRC,14/06/2024,Contact Platform Ser,CDIO - Core,NUANCE COMMUNICATIONS IRELAND LTD,5100015124,"267,759.01",Contact Platform Ser,D02 F721
+HMRC,HMRC,14/06/2024,PROJECT Mandays Supp,CDIO Transformation Programmes,CAPGEMINI,5100015729,"43,775.40",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,14/06/2024,PROJECT Mandays Supp,CDIO - Core,CAPGEMINI,5100015734,"480,825.20",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,14/06/2024,PROJECT Mandays Supp,CDIO - Core,CAPGEMINI,5100015736,"109,869.07",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,14/06/2024,PROJECT Mandays Supp,CDIO - Core,CAPGEMINI,5100015737,"64,920.54",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,14/06/2024,PROJECT Mandays Supp,CDIO - Core,CAPGEMINI,5100015738,"537,137.73",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,14/06/2024,Soft FM Services,Estates,OCS UK&I LIMITED,5100015739,"27,171.58",Soft FM Services,IP28 6LG
+HMRC,HMRC,14/06/2024,PROJECT Mandays Supp,CDIO - Core,CAPGEMINI,5100015750,"397,202.63",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,14/06/2024,PROJECT Mandays Supp,CDIO - Core,CAPGEMINI,5100015751,"99,942.59",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,14/06/2024,Soft FM Services,Estates,OCS UK&I LIMITED,5100015753,"48,871.00",Soft FM Services,IP28 6LG
+HMRC,HMRC,14/06/2024,Contingnt Labr-Other,Change Delivery DG & Programme Office,Baringa Partners LLP,5100015754,"34,452.00",Commercial support for ETMP Regeneration,SW1E 6AJ
+HMRC,HMRC,14/06/2024,PROJECT Mandays Supp,CDIO - Core,EQUAL EXPERTS UK LTD,5100015755,"74,553.06",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,14/06/2024,PROJECT Mandays Supp,CDIO - Core,EQUAL EXPERTS UK LTD,5100015759,"308,767.75",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,14/06/2024,PROJECT Mandays Supp,CDIO - Core,EQUAL EXPERTS UK LTD,5100015761,"142,659.90",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,14/06/2024,PROJECT Mandays Supp,CDIO - Core,EQUAL EXPERTS UK LTD,5100015762,"233,846.10",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,14/06/2024,PROJECT Mandays Supp,CDIO - Core,COGNIZANT Technology Solutions,5100015765,"54,585.00",PROJECT Mandays Supp,EC2M 4AG
+HMRC,HMRC,14/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,COGNIZANT Technology Solutions,5100015769,"219,461.00",PROJECT Mandays Supp,EC2M 4AG
+HMRC,HMRC,14/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,COGNIZANT Technology Solutions,5100015770,"223,404.00",PROJECT Mandays Supp,EC2M 4AG
+HMRC,HMRC,14/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,COGNIZANT Technology Solutions,5100015771,"24,536.00",PROJECT Mandays Supp,EC2M 4AG
+HMRC,HMRC,14/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,COGNIZANT Technology Solutions,5100015772,"33,096.00",PROJECT Mandays Supp,EC2M 4AG
+HMRC,HMRC,14/06/2024,PROJECT Mandays Supp,CDIO - Core,COGNIZANT Technology Solutions,5100015774,"25,904.00",PROJECT Mandays Supp,EC2M 4AG
+HMRC,HMRC,14/06/2024,PROJECT Mandays Supp,CDIO - Core,COGNIZANT Technology Solutions,5100015775,"24,287.00",PROJECT Mandays Supp,EC2M 4AG
+HMRC,HMRC,14/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,Atos Holding UK 1 Ltd,5100015777,"34,929.58",IT Contractors ,WC1V 6EA
+HMRC,HMRC,14/06/2024,PROJECT Mandays Supp,Operational Excellence & Output Mgmt,CAPGEMINI,5100015781,"46,967.49",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,14/06/2024,Soft Licen Off shelf,CDIO - Core,BYTES SOFTWARE SERVICES LTD,5100015787,"2,885,032.80",Soft Licen Off shelf,KT22 7TW
+HMRC,HMRC,14/06/2024,Soft Licen Off shelf,CDIO - Core,BYTES SOFTWARE SERVICES LTD,5100015790,"132,825.60",Soft Licen Off shelf,KT22 7TW
+HMRC,HMRC,14/06/2024,Soft Licen Off shelf,CDIO - Core,BYTES SOFTWARE SERVICES LTD,5100015792,"2,491,034.75",Soft Licen Off shelf,KT22 7TW
+HMRC,HMRC,14/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,ACCENTURE (UK) LTD,5100015802,"408,957.08",IT Contractors ,EC3M 3BD
+HMRC,HMRC,14/06/2024,Employee education,HR,CSL - KPMG LLP,5100015827,"26,833.68",Employee education,E14 5GL
+HMRC,HMRC,14/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CGI IT UK LTD,5100015833,"71,994.09",PROJECT Mandays Supp,CF31 9AP
+HMRC,HMRC,14/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,CGI IT UK LTD,5100015939,"23,294.25",IT Contractors ,CF31 9AP
+HMRC,HMRC,14/06/2024,PROJECT Mandays Supp,Estates,CGI IT UK LTD,5100015954,"23,294.25",Project works,CF31 9AP
+HMRC,HMRC,14/06/2024,PROJECT Mandays Supp,CDIO - Core,CAPGEMINI,5100015962,"151,570.61",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,14/06/2024,Govt auditing serv,Internal Audit,CSL - KPMG LLP,5100015970,"40,758.70",Govt auditing serv,E14 5GL
+HMRC,HMRC,14/06/2024,Govt auditing serv,Internal Audit,CSL - KPMG LLP,5100015971,"37,636.19",Govt auditing serv,E14 5GL
+HMRC,HMRC,14/06/2024,Govt auditing serv,Internal Audit,CSL - KPMG LLP,5100015972,"42,612.70",Govt auditing serv,E14 5GL
+HMRC,HMRC,14/06/2024,Govt auditing serv,Internal Audit,CSL - KPMG LLP,5100015974,"69,153.81",Govt auditing serv,E14 5GL
+HMRC,HMRC,14/06/2024,Govt auditing serv,Internal Audit,CSL - KPMG LLP,5100015975,"31,328.67",Govt auditing serv,E14 5GL
+HMRC,HMRC,14/06/2024,Govt auditing serv,Internal Audit,CSL - KPMG LLP,5100015977,"37,790.79",Govt auditing serv,E14 5GL
+HMRC,HMRC,14/06/2024,Govt auditing serv,Internal Audit,CSL - KPMG LLP,5100015978,"44,128.02",Govt auditing serv,E14 5GL
+HMRC,HMRC,14/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CGI IT UK LTD,5100015985,"87,845.37",PROJECT Mandays Supp,CF31 9AP
+HMRC,HMRC,14/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CAPGEMINI,5100015987,"114,628.97",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,14/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CGI IT UK LTD,5100015990,"23,294.25",Project Development Mandays for LTA Abolition Overseas Charges Transfer,CF31 9AP
+HMRC,HMRC,14/06/2024,Soft Licen Off shelf,HR,Phoenix Software,5100015992,"63,579.60",Soft Licen Off shelf,YO42 1NS
+HMRC,HMRC,14/06/2024,Soft FM Services,Estates,OCS UK&I LIMITED,5100015994,"304,185.40",Soft FM Services,IP28 6LG
+HMRC,HMRC,14/06/2024,PROJECT Mandays Supp,CDIO - Core,EQUAL EXPERTS UK LTD,5100015995,"146,499.44",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,14/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,COGNIZANT Technology Solutions,5100015998,"101,460.92",PROJECT Mandays Supp,EC2M 4AG
+HMRC,HMRC,14/06/2024,PROJECT Mandays Supp,CDIO - Core,EQUAL EXPERTS UK LTD,5100015999,"32,400.00",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,14/06/2024,Contin Labor Run,HMRC Security,CGI IT UK LTD,5100016000,"26,560.80",Contin Labor Run,CF31 9AP
+HMRC,HMRC,14/06/2024,PROJECT Mandays Supp,CDIO - Core,EQUAL EXPERTS UK LTD,5100016001,"36,399.50",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,14/06/2024,PROJECT Mandays Supp,Unity Business Services,CGI IT UK LTD,5100016003,"39,933.00",Project Support Labour Hours,CF31 9AP
+HMRC,HMRC,14/06/2024,PROJECT Mandays Supp,CSG Strategy and Change,CAPGEMINI,5100016010,"23,671.58",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,14/06/2024,PROJECT Mandays Supp,CDIO Transformation Programmes,CAPGEMINI,5100016012,"63,081.10",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,14/06/2024,Contin Labor Run,HMRC Security,CGI IT UK LTD,5100016018,"31,560.00",Contin Labor Run,CF31 9AP
+HMRC,HMRC,14/06/2024,PROJECT Mandays Supp,HMRC Security,BSI CYBERSECURITY AND INFORMATION,5100016020,"26,812.50",PROJECT Mandays Supp,MK5 8PP
+HMRC,HMRC,17/06/2024,Conferences,Fraud Investigation Service,CALDER CONFERENCES LTD,1900130781,"44,045.43",Conferences,LS16 6RF
+HMRC,HMRC,17/06/2024,Contracted Services,Operational Excellence & Output Mgmt,RESTORE DIGITAL LTD,1900130835,"22,702.03",Contracted Services,WV14 0UJ
+HMRC,HMRC,17/06/2024,Virtual Hosting and Infrastructure,CDIO - Core,FUJITSU SERVICES LTD,1900130955,"87,825.46",Virtual Hosting and Infrastructure,WA3 6GD
+HMRC,HMRC,17/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CAPGEMINI,5100016023,"53,532.25",CESA and DDC TS2,TF3 3BD
+HMRC,HMRC,17/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CAPGEMINI,5100016026,"34,854.52",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,17/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CAPGEMINI,5100016031,"73,641.20",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,17/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CAPGEMINI,5100016038,"235,841.00",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,17/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CAPGEMINI,5100016040,"187,068.35",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,17/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,ACCENTURE (UK) LTD,5100016046,"80,658.15",PROJECT Mandays Supp,EC3M 3BD
+HMRC,HMRC,17/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,ACCENTURE (UK) LTD,5100016047,"466,111.41",PROJECT Mandays Supp,EC3M 3BD
+HMRC,HMRC,17/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,ACCENTURE (UK) LTD,5100016048,"53,754.68",PROJECT Mandays Supp,EC3M 3BD
+HMRC,HMRC,17/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,CGI IT UK LTD,5100016053,"34,467.15",PROJECT Mandays Supp,CF31 9AP
+HMRC,HMRC,17/06/2024,PROJECT Mandays Supp,Customs Policy and Strategy,ACCENTURE (UK) LTD,5100016061,"59,621.33",PROJECT Mandays Supp,EC3M 3BD
+HMRC,HMRC,17/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,COGNIZANT Technology Solutions,5100016062,"80,802.96",Customs Declaration Service Contractor Costs,EC2M 4AG
+HMRC,HMRC,17/06/2024,PROJECT Mandays Supp,CDIO - Core,CAPGEMINI,5100016066,"37,043.20",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,17/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,ACCENTURE (UK) LTD,5100016068,"58,832.38",PROJECT Mandays Supp,EC3M 3BD
+HMRC,HMRC,17/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,ACCENTURE (UK) LTD,5100016070,"132,863.16",PROJECT Mandays Supp,EC3M 3BD
+HMRC,HMRC,17/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CGI IT UK LTD,5100016089,"54,456.30",PROJECT Mandays Supp,CF31 9AP
+HMRC,HMRC,17/06/2024,PROJECT Mandays Supp,PDC Customer Strategy & Tax Design,CAPGEMINI,5100016092,"30,545.76",Software Development,TF3 3BD
+HMRC,HMRC,17/06/2024,PROJECT Mandays Supp,PDC Customer Strategy & Tax Design,CAPGEMINI,5100016093,"94,741.20",Software Development,TF3 3BD
+HMRC,HMRC,17/06/2024,PROJECT Mandays Supp,PDC Customer Strategy & Tax Design,ACCENTURE (UK) LTD,5100016195,"177,668.61",Software Development,EC3M 3BD
+HMRC,HMRC,17/06/2024,PROJECT Mandays Supp,Change Delivery Making Tax Digital,SAS SOFTWARE LTD,5100016252,"29,678.63",PROJECT Mandays Supp,SL7 2EB
+HMRC,HMRC,17/06/2024,Rent (Irrec VAT),Estates,Astral Towers Ltd,5100016253,"395,844.72",Rent (Irrec VAT),W1J 6ER
+HMRC,HMRC,17/06/2024,PROJECT Mandays Supp,Change Delivery Making Tax Digital,CGI IT UK LTD,5100016254,"93,177.00",PROJECT Mandays Supp,CF31 9AP
+HMRC,HMRC,17/06/2024,Govt auditing serv,Internal Audit,CSL - KPMG LLP,5100016259,"44,564.62",Govt auditing serv,E14 5GL
+HMRC,HMRC,17/06/2024,Vehicle leasing,Fraud Investigation Service,KINTO UK LIMITED,5100016260,"128,753.20",Vehicle leasing,PO6 3EN
+HMRC,HMRC,17/06/2024,Soft FM Services,Estates,SODEXO LTD,5100016262,"60,220.31",Soft FM Services,M50 2UE
+HMRC,HMRC,17/06/2024,Vehicle repairs,Fraud Investigation Service,KINTO UK LIMITED,5100016266,"21,282.23",Vehicle repairs,PO6 3EN
+HMRC,HMRC,17/06/2024,Facility rental,Estates,PORTSMOUTH CITY COUNCIL,5100016269,"78,410.96",Facility rental,PO1 2BE
+HMRC,HMRC,17/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,Automation Logic,5100016272,"154,440.00",Customs Declaration Service Contractor Costs,EC3V 1LP
+HMRC,HMRC,17/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CAPGEMINI,5100016273,"83,405.33",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,17/06/2024,Govt auditing serv,Internal Audit,CSL - KPMG LLP,5100016274,"39,315.49",Govt auditing serv,E14 5GL
+HMRC,HMRC,17/06/2024,SW Lic Sup Off shlf,CDIO - Core,INSIGHT DIRECT (UK) LTD,5100016276,"28,330.13",SW Lic Sup Off shlf,S1 2JF
+HMRC,HMRC,17/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CAPGEMINI,5100016279,"108,088.50",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,17/06/2024,Telephony Accs.,CDIO - Core,COMPUTACENTER (UK) LTD,5100016285,"92,640.00",Telephony Accs.,AL10 9TW
+HMRC,HMRC,17/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,Automation Logic,5100016288,"119,232.50",Customs Declaration Service Contractor Costs,EC3V 1LP
+HMRC,HMRC,17/06/2024,Lifecycle Replace,Estates,Wates Property Services Ltd,5100016290,"73,022.28",Lifecycle Replace,EN1 3XA
+HMRC,HMRC,17/06/2024,Contin Labor Build,B&T Border Change Delivery,Phoenix Software,5100016291,-450,Customs Declaration Service Contractor Costs,YO42 1NS
+HMRC,HMRC,17/06/2024,Contin Labor Build,B&T Border Change Delivery,Phoenix Software,5100016291,"144,831.75",Customs Declaration Service Contractor Costs,YO42 1NS
+HMRC,HMRC,17/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,Atos Holding UK 1 Ltd,5100016293,"46,870.00",IT Contractors ,WC1V 6EA
+HMRC,HMRC,17/06/2024,Lifecycle Replace,Estates,Wates Property Services Ltd,5100016294,"47,274.88",Lifecycle Replace,EN1 3XA
+HMRC,HMRC,17/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,EQUAL EXPERTS UK LTD,5100016295,"73,867.36",IT Contractors ,AL1 5HE
+HMRC,HMRC,17/06/2024,PROJECT Mandays Supp,CDIO - Core,COGNIZANT Technology Solutions,5100016298,"22,911.00",PROJECT Mandays Supp,EC2M 4AG
+HMRC,HMRC,17/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,Automation Logic,5100016301,"113,014.00",Customs Declaration Service Contractor Costs,EC3V 1LP
+HMRC,HMRC,17/06/2024,Employee education,Commercial Directorate,CSL - KPMG LLP,5100016305,"62,462.81",Employee education,E14 5GL
+HMRC,HMRC,18/06/2024,Tribunal appellant costs,Solicitor's Office & Legal Services,Thyssenkrupp Materials (uk) Ltd,1900131080,"500,000.00",Costs awarded against department,B64 5QU
+HMRC,HMRC,18/06/2024,Travel Service Booking Fees,Surge & ODP,REDFERN TRAVEL LTD,1900135608,2.28,Travel Service Booking Fees,BD1 5HQ
+HMRC,HMRC,18/06/2024,Accommodation,Surge & ODP,REDFERN TRAVEL LTD,1900135608,"72,204.00",Accommodation,BD1 5HQ
+HMRC,HMRC,18/06/2024,Project Development,CDIO - Core,ACCENTURE (UK) LTD,1900140067,"1,408,639.97",Project Development,EC3M 3BD
+HMRC,HMRC,18/06/2024,PROJECT Mandays Supp,CCG Transformation Programmes,SAS SOFTWARE LTD,5100016310,"164,835.00",PROJECT Mandays Supp,SL7 2EB
+HMRC,HMRC,18/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,CAPGEMINI,5100016311,"164,406.67",IT Contractors ,TF3 3BD
+HMRC,HMRC,18/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,CAPGEMINI,5100016317,"60,037.00",IT Contractors ,TF3 3BD
+HMRC,HMRC,18/06/2024,Cons ad imp (Ir VAT),CDIO - Core,FCDO SERVICES,5100016325,"179,544.00",Cons ad imp (Ir VAT),MK19 7BH
+HMRC,HMRC,18/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,ACCENTURE (UK) LTD,5100016334,"286,935.16",PROJECT Mandays Supp,EC3M 3BD
+HMRC,HMRC,18/06/2024,PROJECT Mandays Supp,CDIO - Core,CAPGEMINI,5100016340,"217,613.35",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,18/06/2024,PROJECT Mandays HMRC,CDIO - Core,CGI IT UK LTD,5100016344,"45,743.21",PROJECT Mandays HMRC,CF31 9AP
+HMRC,HMRC,18/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,ACCENTURE (UK) LTD,5100016369,"229,405.06",PROJECT Mandays Supp,EC3M 3BD
+HMRC,HMRC,18/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,DELOITTE LLP (L),5100016370,"1,125,000.00",PROJECT Mandays Supp,MK9 1FD
+HMRC,HMRC,18/06/2024,PROJECT Mandays Supp,CDIO - Core,ACCENTURE (UK) LTD,5100016373,"111,798.11",PROJECT Mandays Supp,EC3M 3BD
+HMRC,HMRC,18/06/2024,PROJECT Mandays Supp,Risk & Intelligence,EQUAL EXPERTS UK LTD,5100016375,"26,471.56",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,18/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,COGNIZANT Technology Solutions,5100016378,"86,066.08",PROJECT Mandays Supp,EC2M 4AG
+HMRC,HMRC,18/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,COGNIZANT Technology Solutions,5100016380,"73,546.88",PROJECT Mandays Supp,EC2M 4AG
+HMRC,HMRC,18/06/2024,Consultancy - Organi,Unity Business Services,ACCENTURE (UK) LTD,5100016383,"470,129.74",Strategic Consultancy Services,EC3M 3BD
+HMRC,HMRC,18/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,ACCENTURE (UK) LTD,5100016385,"24,563.68",PROJECT Mandays Supp,EC3M 3BD
+HMRC,HMRC,18/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CGI IT UK LTD,5100016398,"85,615.70",PROJECT Mandays Supp,CF31 9AP
+HMRC,HMRC,18/06/2024,PROJECT Mandays Supp,CDIO - Core,TECKNUOVO LTD,5100016400,"24,574.00",PROJECT Mandays Supp,N1 7GU
+HMRC,HMRC,18/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,TECKNUOVO LTD,5100016400,"30,717.50",IT Contractors ,N1 7GU
+HMRC,HMRC,18/06/2024,PROJECT Mandays Supp,Customs Policy and Strategy,TECKNUOVO LTD,5100016400,"41,468.62",PROJECT Mandays Supp,N1 7GU
+HMRC,HMRC,18/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,TECKNUOVO LTD,5100016400,"43,004.50",IT Contractors ,N1 7GU
+HMRC,HMRC,18/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,TECKNUOVO LTD,5100016400,"75,257.88",IT Contractors ,N1 7GU
+HMRC,HMRC,18/06/2024,PROJECT Mandays Supp,Border Service Data and Design,TECKNUOVO LTD,5100016400,"92,152.50",PROJECT Mandays Supp,N1 7GU
+HMRC,HMRC,18/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,ACCENTURE (UK) LTD,5100016401,"20,740.59",IT Contractors ,EC3M 3BD
+HMRC,HMRC,18/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,ACCENTURE (UK) LTD,5100016401,"51,851.49",IT Contractors ,EC3M 3BD
+HMRC,HMRC,18/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,ACCENTURE (UK) LTD,5100016401,"62,221.78",IT Contractors ,EC3M 3BD
+HMRC,HMRC,18/06/2024,PROJECT Mandays Supp,B&T DG Finance & Risk,ACCENTURE (UK) LTD,5100016401,"72,592.08",PROJECT Mandays Supp,EC3M 3BD
+HMRC,HMRC,18/06/2024,Contin Labor Build,Risk & Intelligence,EQUAL EXPERTS UK LTD,5100016459,"102,370.00",Contin Labor Build,AL1 5HE
+HMRC,HMRC,18/06/2024,PROJECT Mandays Supp,CDIO - Core,HITACHI SOLUTIONS EUROPE LTD,5100016551,"992,589.13",PROJECT Mandays Supp,EC2N 1HQ
+HMRC,HMRC,18/06/2024,PROJECT Mandays Supp,CDIO - Core,ATKINSREALIS UK LIMITED,5100016553,"56,740.00",PROJECT Mandays Supp,KT18 5BW
+HMRC,HMRC,18/06/2024,Physical Hosting,CDIO - Core,Crown Hosting Data Centres Ltd,5100016560,"78,672.19",Physical Hosting,SN13 9GB
+HMRC,HMRC,18/06/2024,Business Rates,Estates,NEWCASTLE CITY COUNCIL,5100016568,"1,284,847.20",Business Rates,NE99 1UP
+HMRC,HMRC,18/06/2024,Business Rates,Estates,NEWCASTLE CITY COUNCIL,5100016568,"2,187,712.80",Business Rates,NE99 1UP
+HMRC,HMRC,18/06/2024,PROJECT Mandays Supp,CDIO - Core,COGNIZANT Technology Solutions,5100016569,"1,007,166.26",PROJECT Mandays Supp,EC2M 4AG
+HMRC,HMRC,18/06/2024,Prop. Man. (Ir VAT),Estates,Workman Holding Account,5100016571,"108,940.58",Prop. Man. (Ir VAT),EC2V 6EE
+HMRC,HMRC,18/06/2024,Legal Solicitors fee,HR,GOVERNMENT LEGAL DEPARTMENT,5100016576,"128,041.70",Legal Solicitors fee,SW1H 9GL
+HMRC,HMRC,18/06/2024,PROJECT Mandays Supp,Change Delivery Making Tax Digital,ACCENTURE (UK) LTD,5100016599,"65,188.46",PROJECT Mandays Supp,EC3M 3BD
+HMRC,HMRC,18/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CAPGEMINI,5100016616,"730,164.24",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,18/06/2024,SW Lic Sup Off shlf,CDIO - Core,BYTES SOFTWARE SERVICES LTD,5100016617,"59,196.41",SW Lic Sup Off shlf,KT22 7TW
+HMRC,HMRC,18/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CGI IT UK LTD,5100016621,"34,272.60",CGI User Research,CF31 9AP
+HMRC,HMRC,18/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,Atos Holding UK 1 Ltd,5100016630,"35,922.33",PROJECT Mandays Supp,WC1V 6EA
+HMRC,HMRC,18/06/2024,PROJECT Mandays HMRC,Change Delivery DG & Programme Office,CAPGEMINI,5100016634,"78,393.97",PROJECT Mandays HMRC,TF3 3BD
+HMRC,HMRC,19/06/2024,Accommodation Security Services,Estates,Mitie Limited,1900140131,"1,022,748.79",Accommodation Security Services,SE1 9SG
+HMRC,HMRC,19/06/2024,Accommodation Security Services,Estates,Mitie Limited,1900140198,"50,063.32",Accommodation Security Services,SE1 9SG
+HMRC,HMRC,19/06/2024,Project Development,CDIO - Core,OPENCAST SOFTWARE EUROPE LTD,1900140522,"581,141.25",Project Development,NE6 2HL
+HMRC,HMRC,19/06/2024,Project Development,CDIO - Core,Atos Holding UK 1 Ltd,1900140526,"4,479,377.21",Project Development,WC1V 6EA
+HMRC,HMRC,19/06/2024,PROJECT Mandays Supp,CDIO - Core,EQUAL EXPERTS UK LTD,5100013102,"22,500.00",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,19/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,CGI IT UK LTD,5100016651,"23,294.25",IT Contractors ,CF31 9AP
+HMRC,HMRC,19/06/2024,PROJECT Mandays Supp,CDIO - Core,CGI IT UK LTD,5100016657,"23,294.25",PROJECT Mandays Supp,CF31 9AP
+HMRC,HMRC,19/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,Automation Logic,5100016662,"170,095.00",Customs Declaration Service Contractor Costs,EC3V 1LP
+HMRC,HMRC,19/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,ACCENTURE (UK) LTD,5100016669,"1,164,283.40",IT Contractors ,EC3M 3BD
+HMRC,HMRC,19/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,EQUAL EXPERTS UK LTD,5100016672,"72,850.00",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,19/06/2024,PROJECT Mandays Supp,CDIO - Core,EQUAL EXPERTS UK LTD,5100016674,"32,400.00",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,19/06/2024,PROJECT Mandays Supp,CDIO - Core,EQUAL EXPERTS UK LTD,5100016676,"59,337.50",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,19/06/2024,PROJECT Mandays Supp,CDIO - Core,EQUAL EXPERTS UK LTD,5100016677,"32,800.00",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,19/06/2024,PROJECT Mandays Supp,CDIO - Core,EQUAL EXPERTS UK LTD,5100016678,"142,512.50",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,19/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,ACCENTURE (UK) LTD,5100016680,"522,529.34",PROJECT Mandays Supp,EC3M 3BD
+HMRC,HMRC,19/06/2024,PROJECT Mandays Supp,CDIO - Core,EQUAL EXPERTS UK LTD,5100016681,"134,412.50",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,19/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,ACCENTURE (UK) LTD,5100016682,"23,526.67",PROJECT Mandays Supp,EC3M 3BD
+HMRC,HMRC,19/06/2024,PROJECT Mandays Supp,CDIO - Core,EQUAL EXPERTS UK LTD,5100016685,"41,600.00",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,19/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CGI IT UK LTD,5100016721,"77,646.55",PROJECT Mandays Supp,CF31 9AP
+HMRC,HMRC,19/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,EQUAL EXPERTS UK LTD,5100016729,"53,025.00",IT Contractors ,AL1 5HE
+HMRC,HMRC,19/06/2024,Office Fit Irrec VAT,CFO Transformation Programmes,LOGAN CONSTRUCTION SE LTD,5100016743,"416,156.48",Telford Specialist Site.  Professional Services - Project Support. May 24,SE9 3TL
+HMRC,HMRC,19/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,EQUAL EXPERTS UK LTD,5100016744,"68,200.00",IT Contractors ,AL1 5HE
+HMRC,HMRC,19/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,EQUAL EXPERTS UK LTD,5100016753,"61,637.50",IT Contractors ,AL1 5HE
+HMRC,HMRC,19/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,EQUAL EXPERTS UK LTD,5100016755,"49,464.75",IT Contractors ,AL1 5HE
+HMRC,HMRC,19/06/2024,PROJECT Mandays Supp,CCG Transformation Programmes,SAS SOFTWARE LTD,5100016763,"41,375.25",PROJECT Mandays Supp,SL7 2EB
+HMRC,HMRC,19/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,COGNIZANT Technology Solutions,5100016767,"160,482.15",IT Contractors ,EC2M 4AG
+HMRC,HMRC,19/06/2024,PROJECT Mandays Supp,PDC Customer Strategy & Tax Design,EQUAL EXPERTS UK LTD,5100016770,"38,456.72",Software Development,AL1 5HE
+HMRC,HMRC,19/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,EQUAL EXPERTS UK LTD,5100016773,"95,331.02",IT Contractors ,AL1 5HE
+HMRC,HMRC,19/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,EQUAL EXPERTS UK LTD,5100016774,"26,645.00",IT Contractors ,AL1 5HE
+HMRC,HMRC,19/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,EQUAL EXPERTS UK LTD,5100016776,"86,574.00",IT Contractors ,AL1 5HE
+HMRC,HMRC,19/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,EQUAL EXPERTS UK LTD,5100016784,"34,350.00",IT Contractors ,AL1 5HE
+HMRC,HMRC,19/06/2024,PROJECT Mandays Supp,PDC Customer Strategy & Tax Design,CAPGEMINI,5100016785,"143,402.14",Software Development,TF3 3BD
+HMRC,HMRC,19/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,ACCENTURE (UK) LTD,5100016914,"41,984.29",PROJECT Mandays Supp,EC3M 3BD
+HMRC,HMRC,19/06/2024,PROJECT Mandays Supp,Risk & Intelligence,EQUAL EXPERTS UK LTD,5100016915,"26,471.56",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,19/06/2024,PROJECT Mandays Supp,Risk & Intelligence,EQUAL EXPERTS UK LTD,5100016916,"104,477.00",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,19/06/2024,Counsel Fee VAT Irre,Solicitor's Office & Legal Services,RUPERT BALDRY KC,5100016982,"41,712.00",Counsel Fee,WC1R 4EF
+HMRC,HMRC,19/06/2024,Soft Licen Off shelf,CDIO - Core,BYTES SOFTWARE SERVICES LTD,5100016987,"2,002,620.00",Soft Licen Off shelf,KT22 7TW
+HMRC,HMRC,19/06/2024,SW Lic Sup Off shlf,Solicitor's Office & Legal Services,ZYLPHA LTD,5100016991,"108,000.00",Software License Fee,SO21 2DZ
+HMRC,HMRC,19/06/2024,Govt auditing serv,Internal Audit,CSL - KPMG LLP,5100016996,"53,356.17",Govt auditing serv,E14 5GL
+HMRC,HMRC,19/06/2024,PROJECT Mandays Supp,CDIO - Core,EQUAL EXPERTS UK LTD,5100017016,"169,257.50",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,19/06/2024,PROJECT Mandays Supp,HMRC Change Delivery Group,ACCENTURE (UK) LTD,5100017017,"23,466.67",PROJECT Mandays Supp,EC3M 3BD
+HMRC,HMRC,19/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,EQUAL EXPERTS UK LTD,5100017019,"44,676.11",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,19/06/2024,Soft Licen Off Bespo,HR,BYTES SOFTWARE SERVICES LTD,5100017026,"33,639.64",Software Licences,KT22 7TW
+HMRC,HMRC,19/06/2024,Vehicle servicing ma,Fraud Investigation Service,KINTO UK LIMITED,5100017039,"68,222.29",Vehicle servicing ma,PO6 3EN
+HMRC,HMRC,19/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,Atos Holding UK 1 Ltd,5100017047,"22,755.24",IT Contractors ,WC1V 6EA
+HMRC,HMRC,20/06/2024,Telephony Services,CDIO - Core,GAMMA TELECOM LTD,1900140677,"68,514.02",Telephony Services,RG14 5BY
+HMRC,HMRC,20/06/2024,Scanning Services,Operational Excellence & Output Mgmt,RESTORE DIGITAL LTD,1900140686,"415,873.31",Scanning Services,WV14 0UJ
+HMRC,HMRC,20/06/2024,IT Software Licenses and Support,CDIO - Core,FUJITSU SERVICES LTD,1900140800,"1,413,029.58",IT Software Licenses and Support,WA3 6GD
+HMRC,HMRC,20/06/2024,IT Software Licenses and Support,CDIO - Core,FUJITSU SERVICES LTD,1900140803,"846,165.79",IT Software Licenses and Support,WA3 6GD
+HMRC,HMRC,20/06/2024,IT Software Licenses and Support,CDIO - Core,FUJITSU SERVICES LTD,1900140804,"433,734.38",IT Software Licenses and Support,WA3 6GD
+HMRC,HMRC,20/06/2024,IT Software Licenses and Support,CDIO - Core,FUJITSU SERVICES LTD,1900140805,"433,333.00",IT Software Licenses and Support,WA3 6GD
+HMRC,HMRC,20/06/2024,IT Software Licenses and Support,CDIO - Core,FUJITSU SERVICES LTD,1900140806,"292,946.53",IT Software Licenses and Support,WA3 6GD
+HMRC,HMRC,20/06/2024,IT Software Licenses and Support,CDIO - Core,FUJITSU SERVICES LTD,1900140807,"85,987.71",IT Software Licenses and Support,WA3 6GD
+HMRC,HMRC,20/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,EQUAL EXPERTS UK LTD,5100017056,"21,924.03",IT Contractors ,AL1 5HE
+HMRC,HMRC,20/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,Atos Holding UK 1 Ltd,5100017057,"124,899.85",IT Contractors ,WC1V 6EA
+HMRC,HMRC,20/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,Atos Holding UK 1 Ltd,5100017057,"165,564.91",IT Contractors ,WC1V 6EA
+HMRC,HMRC,20/06/2024,Soft Licen Integral,CDIO - Core,SAS SOFTWARE LTD,5100017060,"1,828,385.00",Soft Licen Integral,SL7 2EB
+HMRC,HMRC,20/06/2024,SW Lic Sup Off shlf,CDIO - Core,BOXXE LTD,5100017062,"124,155.13",SW Lic Sup Off shlf,YO31 7RE
+HMRC,HMRC,20/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,CAPGEMINI,5100017086,"540,011.67",Customs Declaration Service Contractor Costs,TF3 3BD
+HMRC,HMRC,20/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,EQUAL EXPERTS UK LTD,5100017087,"40,140.27",IT Contractors ,AL1 5HE
+HMRC,HMRC,20/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,ACCENTURE (UK) LTD,5100017100,"24,301.19",PROJECT Mandays Supp,EC3M 3BD
+HMRC,HMRC,20/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,FUJITSU SERVICES LTD,5100017102,"47,535.40",PROJECT Mandays Supp,WA3 6GD
+HMRC,HMRC,20/06/2024,PROJECT Mandays Supp,Operational Excellence & Output Mgmt,ACCENTURE (UK) LTD,5100017103,"31,350.72",PROJECT Mandays Supp,EC3M 3BD
+HMRC,HMRC,20/06/2024,PROJECT Mandays Supp,Operational Excellence & Output Mgmt,ACCENTURE (UK) LTD,5100017104,"28,833.12",PROJECT Mandays Supp,EC3M 3BD
+HMRC,HMRC,20/06/2024,PROJECT Mandays Supp,CSG Strategy and Change,ACCENTURE (UK) LTD,5100017106,"42,426.93",PROJECT Mandays Supp,EC3M 3BD
+HMRC,HMRC,20/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,ACCENTURE (UK) LTD,5100017107,"40,327.57",PROJECT Mandays Supp,EC3M 3BD
+HMRC,HMRC,20/06/2024,SW Lic Sup Off shlf,CDIO - Core,TRAMS LIMITED,5100017115,"28,772.47",SW Lic Sup Off shlf,EC4R 1AP
+HMRC,HMRC,20/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,EQUAL EXPERTS UK LTD,5100017119,"25,267.50",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,20/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CAPGEMINI,5100017121,"92,897.90",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,20/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CAPGEMINI,5100017124,"71,704.19",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,20/06/2024,PROJECT Mandays Supp,CDIO - Core,COGNIZANT Technology Solutions,5100017126,"387,377.00",PROJECT Mandays Supp,EC2M 4AG
+HMRC,HMRC,20/06/2024,PROJECT Mandays Supp,CDIO - Core,COGNIZANT Technology Solutions,5100017127,"55,340.00",PROJECT Mandays Supp,EC2M 4AG
+HMRC,HMRC,20/06/2024,PROJECT Mandays Supp,CDIO - Core,COGNIZANT Technology Solutions,5100017128,"27,670.00",PROJECT Mandays Supp,EC2M 4AG
+HMRC,HMRC,20/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,CAPGEMINI,5100017129,"50,750.32",Customs Declaration Service Contractor Costs,TF3 3BD
+HMRC,HMRC,20/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,COGNIZANT Technology Solutions,5100017134,"36,955.65",PROJECT Mandays Supp,EC2M 4AG
+HMRC,HMRC,20/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,Atos Holding UK 1 Ltd,5100017135,"42,957.33",PROJECT Mandays Supp,WC1V 6EA
+HMRC,HMRC,20/06/2024,Soft Licen Integral,CDIO - Core,CAPGEMINI,5100017137,"31,713.00",Soft Licen Integral,TF3 3BD
+HMRC,HMRC,20/06/2024,Contin Labor Build,B&T Border Change Delivery,SPECIALIST COMPUTER CTR,5100017138,"1,233,847.66",Customs Declaration Service Contractor Costs,B11 2LE
+HMRC,HMRC,20/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,DELOITTE LLP (L),5100017139,"686,347.00",PROJECT Mandays Supp,MK9 1FD
+HMRC,HMRC,20/06/2024,Contin Labor Build,B&T Border Change Delivery,SPECIALIST COMPUTER CTR,5100017140,"140,499.69",Customs Declaration Service Contractor Costs,B11 2LE
+HMRC,HMRC,20/06/2024,Dilapidations,Estates,Department for Work and Pensions,5100017371,"775,000.00",Dilapidations,FY5 3TA
+HMRC,HMRC,20/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,ACCENTURE (UK) LTD,5100017374,"40,106.01",PROJECT Mandays Supp,EC3M 3BD
+HMRC,HMRC,20/06/2024,PROJECT Mandays Supp,Change Delivery Making Tax Digital,SAS SOFTWARE LTD,5100017377,"25,599.40",PROJECT Mandays Supp,SL7 2EB
+HMRC,HMRC,20/06/2024,PROJECT Mandays Supp,Change Delivery Making Tax Digital,EQUAL EXPERTS UK LTD,5100017378,"21,583.83",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,20/06/2024,Document scanning,Estates,IRON MOUNTAIN UK PLC,5100017379,"329,986.08",Document scanning,EH54 5DL
+HMRC,HMRC,20/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CGI IT UK LTD,5100017383,"22,185.00",PROJECT Mandays Supp,CF31 9AP
+HMRC,HMRC,20/06/2024,File archive storage,Estates,IRON MOUNTAIN UK PLC,5100017384,"84,481.75",File archive storage,EH54 5DL
+HMRC,HMRC,20/06/2024,PROJECT Mandays Supp,Change Delivery Making Tax Digital,Atos Holding UK 1 Ltd,5100017385,"50,746.46",PROJECT Mandays Supp,WC1V 6EA
+HMRC,HMRC,20/06/2024,Tax research,Change Delivery Making Tax Digital,VERIAN GROUP UK LTD,5100017387,"22,572.00",Tax research,SW1P 3JA
+HMRC,HMRC,20/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,EQUAL EXPERTS UK LTD,5100017390,"73,781.25",IT Contractors ,AL1 5HE
+HMRC,HMRC,20/06/2024,PROJECT Mandays Supp,PDC Customer Strategy & Tax Design,EQUAL EXPERTS UK LTD,5100017393,"43,596.79",Software Development,AL1 5HE
+HMRC,HMRC,20/06/2024,PROJECT Mandays Supp,Knowledge Analysis & Intelligence,CAPGEMINI,5100017394,"33,831.50",IT Project Development Resource Days,TF3 3BD
+HMRC,HMRC,20/06/2024,Soft Licen Integral,CDIO - Core,IMIMOBILE EUROPE LTD,5100017409,"33,569.00",Soft Licen Integral,EC1M 4BH
+HMRC,HMRC,20/06/2024,Contact Platform Ser,CDIO - Core,CAPITA CUSTOMER MANAGEMENT LTD,5100017410,"100,298.96",Contact Platform Ser,DL1 9HN
+HMRC,HMRC,20/06/2024,Contact Platform Ser,CDIO - Core,Verint Systems UK Ltd,5100017413,"120,390.00",Contact Platform Ser,KT13 0RH
+HMRC,HMRC,20/06/2024,PROJECT Mandays Supp,Change Delivery Making Tax Digital,EQUAL EXPERTS UK LTD,5100017414,"38,769.38",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,20/06/2024,SW Lic Sup mngd Serv,CDIO - Core,IMIMOBILE EUROPE LTD,5100017416,"24,675.00",SW Lic Sup mngd Serv,EC1M 4BH
+HMRC,HMRC,20/06/2024,PROJECT Mandays Supp,Change Delivery Making Tax Digital,ACCENTURE (UK) LTD,5100017417,"49,266.17",PROJECT Mandays Supp,EC3M 3BD
+HMRC,HMRC,20/06/2024,PROJECT Mandays Supp,Change Delivery Making Tax Digital,ACCENTURE (UK) LTD,5100017417,"148,390.46",PROJECT Mandays Supp,EC3M 3BD
+HMRC,HMRC,20/06/2024,Research (VAT rec),Knowledge Analysis & Intelligence,IPSOS (market research) Ltd,5100017421,"26,550.00",Research Services,SE1 1PY
+HMRC,HMRC,20/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,CAPGEMINI,5100017423,"1,093.64",IT Contractors ,TF3 3BD
+HMRC,HMRC,20/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,CAPGEMINI,5100017423,"6,561.84",IT Contractors ,TF3 3BD
+HMRC,HMRC,20/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,CAPGEMINI,5100017423,"7,655.48",IT Contractors ,TF3 3BD
+HMRC,HMRC,20/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,CAPGEMINI,5100017423,"12,030.04",IT Contractors ,TF3 3BD
+HMRC,HMRC,20/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,CAPGEMINI,5100017423,"34,996.48",Customs Declaration Service Contractor Costs,TF3 3BD
+HMRC,HMRC,20/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,CAPGEMINI,5100017423,"47,026.52",IT Contractors ,TF3 3BD
+HMRC,HMRC,21/06/2024,Physical Hosting and Infrastructure,CDIO - Core,FUJITSU SERVICES LTD,1900141312,"204,325.48",Physical Hosting and Infrastructure,WA3 6GD
+HMRC,HMRC,21/06/2024,Physical Hosting and Infrastructure,CDIO - Core,FUJITSU SERVICES LTD,1900141316,"204,325.48",Physical Hosting and Infrastructure,WA3 6GD
+HMRC,HMRC,21/06/2024,Physical Hosting and Infrastructure,CDIO - Core,FUJITSU SERVICES LTD,1900141326,"659,791.83",Physical Hosting and Infrastructure,WA3 6GD
+HMRC,HMRC,21/06/2024,Physical Hosting and Infrastructure,CDIO - Core,FUJITSU SERVICES LTD,1900141363,"93,712.75",Physical Hosting and Infrastructure,WA3 6GD
+HMRC,HMRC,21/06/2024,Physical Hosting and Infrastructure,CDIO - Core,FUJITSU SERVICES LTD,1900141364,"96,407.00",Physical Hosting and Infrastructure,WA3 6GD
+HMRC,HMRC,21/06/2024,Physical Hosting and Infrastructure,CDIO - Core,FUJITSU SERVICES LTD,1900141365,"795,267.87",Physical Hosting and Infrastructure,WA3 6GD
+HMRC,HMRC,21/06/2024,Project Development,CDIO - Core,ESYNERGY SOLUTIONS LTD,1900141376,"224,045.00",Project Development,EC3M 3JY
+HMRC,HMRC,21/06/2024,PROJECT Mandays Supp,Knowledge Analysis & Intelligence,EQUAL EXPERTS UK LTD,5100017451,"70,070.41",IT Project Development Resource Days,AL1 5HE
+HMRC,HMRC,21/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,CAPGEMINI,5100017454,"32,545.76",IT Contractors ,TF3 3BD
+HMRC,HMRC,21/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,CAPGEMINI,5100017460,"284,742.51",Customs Declaration Service Contractor Costs,TF3 3BD
+HMRC,HMRC,21/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,FUJITSU SERVICES LTD,5100017468,"60,542.10",ATWD Contractor Costs,WA3 6GD
+HMRC,HMRC,21/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,CGI IT UK LTD,5100017469,"23,294.25",PROJECT Mandays Supp,CF31 9AP
+HMRC,HMRC,21/06/2024,PROJECT Mandays Supp,CDIO - Core,TECKNUOVO LTD,5100017481,"244,140.13",PROJECT Mandays Supp,N1 7GU
+HMRC,HMRC,21/06/2024,SW Lic Sup Off shlf,Government Banking and Payments,Bottomline Technologies,5100017665,"72,004.20",SWIFT Service Bureau Charge,GU51 2QJ
+HMRC,HMRC,21/06/2024,Rent (Irrec VAT),Estates,Astral Towers Ltd,5100017669,"392,019.49",Rent (Irrec VAT),W1J 6ER
+HMRC,HMRC,21/06/2024,Govt dept services,CFO Transformation Programmes,AECOM LTD,5100017703,"49,157.11",Dover Specialist Site. Construction & Office Fit Out. May 24,G2 7ER
+HMRC,HMRC,21/06/2024,Minor Wrks Irrec VAT,Estates,AECOM LTD,5100017708,"39,428.65",Minor Wrks Irrec VAT,G2 7ER
+HMRC,HMRC,21/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,ACCENTURE (UK) LTD,5100017710,"92,173.33",IT Contractors ,EC3M 3BD
+HMRC,HMRC,24/06/2024,IT Software Licenses and Support,CDIO - Core,FUJITSU SERVICES LTD,1900142926,"98,653.32",IT Software Licenses and Support,WA3 6GD
+HMRC,HMRC,24/06/2024,IT Software Licenses and Support,CDIO - Core,FUJITSU SERVICES LTD,1900142928,"98,653.32",IT Software Licenses and Support,WA3 6GD
+HMRC,HMRC,24/06/2024,IT Software Licenses and Support,CDIO - Core,FUJITSU SERVICES LTD,1900142929,"98,653.32",IT Software Licenses and Support,WA3 6GD
+HMRC,HMRC,24/06/2024,Utility Payments - gas,Estates,Inspired Energy plc,1900144483,"70,595.62",Utility Payments - gas,PR4 2TZ
+HMRC,HMRC,24/06/2024,Utility Payments - water,Estates,Inspired Energy plc,1900144492,"59,520.10",Utility Payments - water,PR4 2TZ
+HMRC,HMRC,24/06/2024,Utility Payments - water,Estates,Inspired Energy plc,1900144493,"26,896.29",Utility Payments - water,PR4 2TZ
+HMRC,HMRC,24/06/2024,SW Lic Sup mngd Serv,CDIO - Core,NUANCE COMMUNICATIONS IRELAND LTD,5100017007,"100,050.00",SW Lic Sup mngd Serv,D02 F721
+HMRC,HMRC,24/06/2024,PROJECT Mandays HMRC,Unity Business Services,Baringa Partners LLP,5100017722,"186,203.36",Project Support Labour Hours,SW1E 6AJ
+HMRC,HMRC,24/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,COGNIZANT Technology Solutions,5100017743,"63,972.50",IT Contractors ,EC2M 4AG
+HMRC,HMRC,24/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,COGNIZANT Technology Solutions,5100017744,"63,972.50",IT Contractors ,EC2M 4AG
+HMRC,HMRC,24/06/2024,PROJECT Mandays HMRC,CDIO Transformation Programmes,North Highland UK Limited,5100017745,"270,552.00",PROJECT Mandays HMRC,EC1N 2TD
+HMRC,HMRC,24/06/2024,PROJECT Mandays HMRC,CDIO Transformation Programmes,North Highland UK Limited,5100017748,"81,999.00",PROJECT Mandays HMRC,EC1N 2TD
+HMRC,HMRC,24/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,Atos Holding UK 1 Ltd,5100017749,"42,360.24",IT Contractors ,WC1V 6EA
+HMRC,HMRC,24/06/2024,PROJECT Mandays Supp,Change Delivery Making Tax Digital,Atos Holding UK 1 Ltd,5100017751,"300,319.42",PROJECT Mandays Supp,WC1V 6EA
+HMRC,HMRC,24/06/2024,PROJECT Mandays Supp,Change Delivery Making Tax Digital,Atos Holding UK 1 Ltd,5100017751,"567,741.47",PROJECT Mandays Supp,WC1V 6EA
+HMRC,HMRC,24/06/2024,PROJECT Mandays Supp,CDIO - Core,EQUAL EXPERTS UK LTD,5100017758,"74,950.00",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,24/06/2024,PROJECT Mandays Supp,CDIO - Core,EQUAL EXPERTS UK LTD,5100017760,"309,587.50",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,24/06/2024,PROJECT Mandays Supp,CDIO - Core,EQUAL EXPERTS UK LTD,5100017761,"97,675.00",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,24/06/2024,PROJECT Mandays Supp,CDIO - Core,EQUAL EXPERTS UK LTD,5100017764,"63,893.75",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,24/06/2024,PROJECT Mandays Supp,CDIO - Core,EQUAL EXPERTS UK LTD,5100017765,"97,025.00",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,24/06/2024,PROJECT Mandays Supp,CDIO - Core,EQUAL EXPERTS UK LTD,5100017766,"56,800.00",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,24/06/2024,PROJECT Mandays Supp,CDIO - Core,EQUAL EXPERTS UK LTD,5100017767,"48,600.00",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,24/06/2024,PROJECT Mandays Supp,CDIO - Core,EQUAL EXPERTS UK LTD,5100017768,"103,350.00",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,24/06/2024,PROJECT Mandays Supp,CDIO - Core,EQUAL EXPERTS UK LTD,5100017769,"23,625.00",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,24/06/2024,PROJECT Mandays Supp,CDIO - Core,EQUAL EXPERTS UK LTD,5100017770,"220,631.25",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,24/06/2024,PROJECT Mandays Supp,CDIO - Core,COGNIZANT Technology Solutions,5100017773,"188,550.00",PROJECT Mandays Supp,EC2M 4AG
+HMRC,HMRC,24/06/2024,SW Lic Sup mngd Serv,CDIO - Core,CAPGEMINI,5100017777,"38,193.00",SW Lic Sup mngd Serv,TF3 3BD
+HMRC,HMRC,24/06/2024,Project support,CDIO - Core,CAPGEMINI,5100017778,"254,845.70",Project support,TF3 3BD
+HMRC,HMRC,24/06/2024,PROJECT Mandays Supp,CDIO - Core,EQUAL EXPERTS UK LTD,5100017784,"49,000.00",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,24/06/2024,Disposal Seized Gds,Fraud Investigation Service,GXO LOGISTICS SERVICES UK LIMITED,5100017786,"83,082.64",Disposal Seized Gds,EH2 4DF
+HMRC,HMRC,24/06/2024,PROJECT Mandays Supp,Change Delivery Making Tax Digital,Atos Holding UK 1 Ltd,5100017893,"22,984.50",PROJECT Mandays Supp,WC1V 6EA
+HMRC,HMRC,24/06/2024,PROJECT Mandays Supp,Change Delivery Making Tax Digital,Atos Holding UK 1 Ltd,5100017894,"451,869.31",PROJECT Mandays Supp,WC1V 6EA
+HMRC,HMRC,24/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,CAPGEMINI,5100017991,"166,186.31",Customs Declaration Service Contractor Costs,TF3 3BD
+HMRC,HMRC,24/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,CAPGEMINI,5100017996,"360,706.61",Customs Declaration Service Contractor Costs,TF3 3BD
+HMRC,HMRC,25/06/2024,IT Software Licenses and Support,CDIO - Core,AMAZON WEB SERVICES EMEA SARL,1900144673,"46,301.84",IT Software Licenses and Support,EC2A 2FA
+HMRC,HMRC,25/06/2024,Virtual Hosting and Infrastructure,CDIO - Core,Amazon Web Services UK,1900144833,"1,416,900.41",Virtual Hosting and Infrastructure,EC2A 2FA
+HMRC,HMRC,25/06/2024,Project Development,CDIO - Core,EQUAL EXPERTS UK LTD,1900144883,"593,357.75",Project Development,AL1 5HE
+HMRC,HMRC,25/06/2024,Projects,Programme and Operational Delivery,SODEXO LTD,1900144984,"440,001.94",IBF Running Costs,M50 2UE
+HMRC,HMRC,25/06/2024,Projects,Programme and Operational Delivery,SODEXO LTD,1900144985,"1,754,204.64",IBF Running Costs,M50 2UE
+HMRC,HMRC,25/06/2024,Contracted Services,Programme and Operational Delivery,SODEXO LTD,1900144986,"1,049,222.92",Recoverable OGD IBF running costs,M50 2UE
+HMRC,HMRC,25/06/2024,Non-IT Contingent Labour,CDIO - Core,EQUAL EXPERTS UK LTD,1900152686,"467,335.25",Non-IT Contingent Labour,AL1 5HE
+HMRC,HMRC,25/06/2024,PROJECT Mandays Supp,PDC Customer Strategy & Tax Design,Atos Holding UK 1 Ltd,5100018017,"26,365.00",Software Development,WC1V 6EA
+HMRC,HMRC,25/06/2024,Soft Licen Off shelf,CDIO - Core,BYTES SOFTWARE SERVICES LTD,5100018028,"32,963,530.91",Soft Licen Off shelf,KT22 7TW
+HMRC,HMRC,25/06/2024,SW Lic Sup Off shlf,Programme and Operational Delivery,Smarter Technologies,5100018030,"103,035.46",IBF Running Costs,BH24 3FG
+HMRC,HMRC,25/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CGI IT UK LTD,5100018032,"4,437.00",PROJECT Mandays Supp,CF31 9AP
+HMRC,HMRC,25/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CGI IT UK LTD,5100018032,"6,655.50",PROJECT Mandays Supp,CF31 9AP
+HMRC,HMRC,25/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,CGI IT UK LTD,5100018032,"11,092.50",PROJECT Mandays Supp,CF31 9AP
+HMRC,HMRC,25/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,Atos Holding UK 1 Ltd,5100018035,"42,152.03",IT Contractors ,WC1V 6EA
+HMRC,HMRC,25/06/2024,Rent (Irrec VAT),Programme and Operational Delivery,CHANNEL PORTS LTD,5100018057,"74,400.00",IBF Running Costs,CT21 4BL
+HMRC,HMRC,25/06/2024,Minor Wrks Irrec VAT,Estates,Wates Property Services Ltd,5100018063,"33,367.44",Minor Wrks Irrec VAT,EN1 3XA
+HMRC,HMRC,25/06/2024,Hardware maintenance,CDIO - Core,AVANADE UK LTD,5100018072,"24,300.00",Hardware maintenance,EC4M 6XH
+HMRC,HMRC,25/06/2024,Mail and Fulfilment,Operational Excellence & Output Mgmt,RESTORE DIGITAL LTD,5100018075,"76,424.00",Mail and Fulfilment,WV14 0UJ
+HMRC,HMRC,25/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,COGNIZANT Technology Solutions,5100018162,"867,502.00",PROJECT Mandays Supp,EC2M 4AG
+HMRC,HMRC,25/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,COGNIZANT Technology Solutions,5100018165,"81,513.00",PROJECT Mandays Supp,EC2M 4AG
+HMRC,HMRC,25/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,Atos Holding UK 1 Ltd,5100018253,"23,926.49",IT Contractors ,WC1V 6EA
+HMRC,HMRC,25/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,CGI IT UK LTD,5100018255,"23,294.25",Customs Declaration Service Contractor Costs,CF31 9AP
+HMRC,HMRC,25/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,Atos Holding UK 1 Ltd,5100018258,"25,138.92",PROJECT Mandays Supp,WC1V 6EA
+HMRC,HMRC,25/06/2024,Promotional merch.,Surge & ODP,ROCKET PROMO,5100018275,"42,953.18",Promotional merch.,NW5 3EW
+HMRC,HMRC,25/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,COGNIZANT Technology Solutions,5100018288,"90,576.00",PROJECT Mandays Supp,EC2M 4AG
+HMRC,HMRC,25/06/2024,PROJECT Mandays Supp,Change Delivery Making Tax Digital,EQUAL EXPERTS UK LTD,5100018289,"38,769.38",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,25/06/2024,SW Lic Sup mngd Serv,Operational Excellence & Output Mgmt,IMIMOBILE EUROPE LTD,5100018300,"10,282.20",SW Lic Sup mngd Serv,EC1M 4BH
+HMRC,HMRC,25/06/2024,Landline call chrges,Operational Excellence & Output Mgmt,IMIMOBILE EUROPE LTD,5100018300,"16,050.62",Landline call chrges,EC1M 4BH
+HMRC,HMRC,25/06/2024,PROJECT Mandays Supp,Customs Policy and Strategy,CAPGEMINI,5100018302,"218,173.16",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,25/06/2024,PROJECT Mandays Supp,CDIO - Core,Mastek UK Ltd,5100018303,"913,550.05",PROJECT Mandays Supp,RG1 8BW
+HMRC,HMRC,25/06/2024,PROJECT Mandays Supp,Change Delivery Making Tax Digital,Atos Holding UK 1 Ltd,5100018304,"40,770.80",PROJECT Mandays Supp,WC1V 6EA
+HMRC,HMRC,25/06/2024,PROJECT Mandays Supp,Compliance Operations Directorate,COGNIZANT Technology Solutions,5100018306,"51,079.78",PROJECT Mandays Supp,EC2M 4AG
+HMRC,HMRC,25/06/2024,SW Lic Sup Off shlf,CDIO - Core,BOXXE LTD,5100018311,"25,920.00",SW Lic Sup Off shlf,YO31 7RE
+HMRC,HMRC,25/06/2024,PROJECT Mandays Supp,B&T DG Finance & Risk,CAPGEMINI,5100018312,"1,055,488.36",PROJECT Mandays Supp,TF3 3BD
+HMRC,HMRC,25/06/2024,PROJECT Mandays Supp,Change Delivery Making Tax Digital,Atos Holding UK 1 Ltd,5100018317,"89,820.53",PROJECT Mandays Supp,WC1V 6EA
+HMRC,HMRC,25/06/2024,SW Lic Sup Off shlf,CDIO - Core,LEARNING POOL LTD,5100018318,"45,432.00",SW Lic Sup Off shlf,BT48 7EL
+HMRC,HMRC,26/06/2024,Virtual Hosting and Infrastructure,CDIO - Core,Amazon Web Services UK,1900152892,"100,325.29",Virtual Hosting and Infrastructure,EC2A 2FA
+HMRC,HMRC,26/06/2024,Project support,CDIO - Core,CAPGEMINI,5100018328,"234,000.00",Project support,TF3 3BD
+HMRC,HMRC,26/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,ACCENTURE (UK) LTD,5100018333,"218,027.17",PROJECT Mandays Supp,EC3M 3BD
+HMRC,HMRC,26/06/2024,Facilities Mngmnt,Estates,Wates Property Services Ltd,5100018335,"349,545.87",Facilities Mngmnt,EN1 3XA
+HMRC,HMRC,26/06/2024,Facilities Mngmnt,Estates,Wates Property Services Ltd,5100018336,"128,334.79",Facilities Mngmnt,EN1 3XA
+HMRC,HMRC,26/06/2024,PROJECT Mandays Supp,Programme and Operational Delivery,Atos Holding UK 1 Ltd,5100018337,"46,633.16",IT Contractors ,WC1V 6EA
+HMRC,HMRC,26/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,EQUAL EXPERTS UK LTD,5100018351,"49,107.48",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,26/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,Atos Holding UK 1 Ltd,5100018355,"34,576.36",ATWD Contractor Costs,WC1V 6EA
+HMRC,HMRC,26/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,EQUAL EXPERTS UK LTD,5100018356,"49,107.48",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,26/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,Atos Holding UK 1 Ltd,5100018382,"45,264.43",PROJECT Mandays Supp,WC1V 6EA
+HMRC,HMRC,26/06/2024,Oth PFI unitary chrg,Estates,NEWCASTLE ESTATE PARTNERSHIP,5100018518,"3,489,329.36",Charges for accommodation provided under the Newcastle Private Finance Initiative contract,BS1 4DJ
+HMRC,HMRC,26/06/2024,Block Charges,Risk & Intelligence,FOREIGN COMMONWEALTH & DEVELOPMENT,5100018519,"198,921.17",Block Charges,G75 8EA
+HMRC,HMRC,26/06/2024,PROJECT Mandays Supp,CDIO - Core,Atos Holding UK 1 Ltd,5100018531,"75,013.13",PROJECT Mandays Supp,WC1V 6EA
+HMRC,HMRC,26/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,ACCENTURE (UK) LTD,5100018533,"148,615.13",PROJECT Mandays Supp,EC3M 3BD
+HMRC,HMRC,26/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,Atos Holding UK 1 Ltd,5100018536,"31,028.17",Increasing Eligibility testing,WC1V 6EA
+HMRC,HMRC,26/06/2024,PROJECT Mandays Supp,B&T DG Finance & Risk,BYTES SOFTWARE SERVICES LTD,5100018537,"33,639.64",License,KT22 7TW
+HMRC,HMRC,26/06/2024,Contin Labor Build,B&T Border Change Delivery,SPECIALIST COMPUTER CTR,5100018543,"658,221.04",Customs Declaration Service Contractor Costs,B11 2LE
+HMRC,HMRC,26/06/2024,PROJECT Mandays Supp,CDIO Transformation Programmes,BRITISH TELECOMMUNICATIONS PLC,5100018555,"28,180.06",PROJECT Mandays Supp,E1 8EE
+HMRC,HMRC,27/06/2024,PROJECT Mandays Supp,CDIO - Core,EQUAL EXPERTS UK LTD,5100017459,"86,300.00",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,27/06/2024,Contin Labor Build,B&T Border Change Delivery,SPECIALIST COMPUTER CTR,5100018369,"3,896,582.96",Customs Declaration Service Contractor Costs,B11 2LE
+HMRC,HMRC,27/06/2024,Contin Labor Build,B&T Border Change Delivery,SPECIALIST COMPUTER CTR,5100018378,"1,046,835.30",Customs Declaration Service Contractor Costs,B11 2LE
+HMRC,HMRC,27/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,EQUAL EXPERTS UK LTD,5100018587,"223,568.13",Customs Declaration Service Contractor Costs,AL1 5HE
+HMRC,HMRC,27/06/2024,Services waste,Estates,IRON MOUNTAIN UK PLC,5100018588,"27,027.70",Services waste,EH54 5DL
+HMRC,HMRC,27/06/2024,PROJECT Mandays Supp,B&T Border Change Delivery,EQUAL EXPERTS UK LTD,5100018589,"131,168.75",Customs Declaration Service Contractor Costs,AL1 5HE
+HMRC,HMRC,27/06/2024,Prof membership,Internal Audit,GARTNER UK LTD,5100018591,"38,631.60",Prof membership,TW20 9AH
+HMRC,HMRC,27/06/2024,Research conslt serv,HR,PEOPLESCOUT LIMITED,5100018598,"45,934.56",Research conslt serv,W1T 7RQ
+HMRC,HMRC,27/06/2024,PROJECT Mandays Supp,CDIO Transformation Programmes,BRITISH TELECOMMUNICATIONS PLC,5100018599,"21,500.40",PROJECT Mandays Supp,E1 8EE
+HMRC,HMRC,27/06/2024,PROJECT Mandays Supp,CDIO - Core,EQUAL EXPERTS UK LTD,5100018600,"-85,150.00",PROJECT Mandays Supp,AL1 5HE
+HMRC,HMRC,27/06/2024,PROJECT Mandays Supp,CDIO Transformation Programmes,BRITISH TELECOMMUNICATIONS PLC,5100018603,"-28,180.06",PROJECT Mandays Supp,E1 8EE
+HMRC,HMRC,27/06/2024,Virtual Hosting,CDIO - Core,AMAZON WEB SERVICES,5100018605,"430,253.74",Virtual Hosting,981095210
+HMRC,HMRC,27/06/2024,Disposal Seized Gds,Fraud Investigation Service,BIFFA WASTE SERVICES LTD,5100018610,"71,900.04",Disposal Seized Gds,HP12 3TZ
+HMRC,HMRC,27/06/2024,Projects VAT irrec,Programme and Operational Delivery,FUJITSU SERVICES LTD,5100018617,"388,874.05",Projects VAT irrec,WA3 6GD
+HMRC,HMRC,27/06/2024,Projects VAT irrec,Programme and Operational Delivery,FUJITSU SERVICES LTD,5100018618,"5,161,615.19",Projects VAT irrec,WA3 6GD
+HMRC,HMRC,27/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,DELOITTE LLP (L),5100018780,"1,154,531.25",PROJECT Mandays Supp,MK9 1FD
+HMRC,HMRC,27/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,DELOITTE LLP (L),5100018782,"939,604.69",PROJECT Mandays Supp,MK9 1FD
+HMRC,HMRC,27/06/2024,Ad campaign ser.,CSG Transformation,DEPARTMENT FOR EDUCATION,5100018800,"78,608.16",Ad campaign ser.,CV1 2WT
+HMRC,HMRC,27/06/2024,SW Lic Sup mngd Serv,CDIO - Core,MICRO FOCUS LTD,5100018804,"80,713.94",SW Lic Sup mngd Serv,RG14 1QN
+HMRC,HMRC,27/06/2024,Network Voice Serv,CDIO - Core,BRITISH TELECOMMUNICATIONS PLC,5100018809,"14,717.88",Network Voice Serv,E1 8EE
+HMRC,HMRC,27/06/2024,WAN maint or supp,CDIO - Core,BRITISH TELECOMMUNICATIONS PLC,5100018809,"284,346.44",WAN maint or supp,E1 8EE
+HMRC,HMRC,27/06/2024,PROJECT Mandays Supp,CDIO - Core,CREDERA LTD,5100018820,"34,300.00",PROJECT Mandays Supp,SE1 0SW
+HMRC,HMRC,28/06/2024,Tribunal appellant costs,Solicitor's Office & Legal Services,Qubic Advisory Services Ltd,1900153458,"36,671.00",Costs awarded against department,NE1 4AD
+HMRC,HMRC,28/06/2024,Tribunal appellant costs,Solicitor's Office & Legal Services,Fridays Ltd ,1900153461,"67,500.00",Costs awarded against department,BS1 6BX
+HMRC,HMRC,28/06/2024,Consultancy Non IT,HR,DELOITTE LLP (L),1900153492,"120,000.00",Consultancy Non IT,MK9 1FD
+HMRC,HMRC,28/06/2024,Courier Services,Estates,Royal Mail Group Ltd,1900153531,"40,581.61",Courier Services,S49 1HQ
+HMRC,HMRC,28/06/2024,Prop. Man. (Ir VAT),Estates,GOVERNMENT PROPERTY AGENCY,5100018526,"129,990.38",Prop. Man. (Ir VAT),SW1H 0NN
+HMRC,HMRC,28/06/2024,OGD costs,Estates,GOVERNMENT PROPERTY AGENCY,5100018526,"1,047,234.63",OGD costs,SW1H 0NN
+HMRC,HMRC,28/06/2024,Property mgmt. ser.,Estates,GOVERNMENT PROPERTY AGENCY,5100018526,"1,698,376.34",Property mgmt. ser.,SW1H 0NN
+HMRC,HMRC,28/06/2024,Rent (Irrec VAT),Programme and Operational Delivery,Motis Freight Services Limited,5100018849,"42,780.00",IBF Running Costs,CT17 9DN
+HMRC,HMRC,28/06/2024,Facilities Mngmnt,Estates,OCS UK&I LIMITED,5100018854,"21,178.52",Facilities Mngmnt,IP28 6LG
+HMRC,HMRC,28/06/2024,Facilities Mngmnt,Estates,OCS UK&I LIMITED,5100018860,"55,689.81",Facilities Mngmnt,IP28 6LG
+HMRC,HMRC,28/06/2024,Lifecycle Replace,Estates,OCS UK&I LIMITED,5100018866,"32,609.03",Lifecycle Replace,IP28 6LG
+HMRC,HMRC,28/06/2024,Legal Solicitors fee,Government Banking and Payments,SIMMONS & SIMMONS LLP,5100019017,"38,331.57",Legal Solicitors fee,EC2Y 9SS
+HMRC,HMRC,28/06/2024,PROJECT Mandays Supp,CDIO - Core,MICROSOFT LTD,5100019018,"81,453.00",PROJECT Mandays Supp,RG6 1WG
+HMRC,HMRC,28/06/2024,Facilities Mngmnt,Estates,OCS UK&I LIMITED,5100019023,"31,943.69",Facilities Mngmnt,IP28 6LG
+HMRC,HMRC,28/06/2024,PROJECT Mandays Supp,Change Delivery DG & Programme Office,Atos Holding UK 1 Ltd,5100019026,"38,266.24",PROJECT Mandays Supp,WC1V 6EA
+HMRC,HMRC,28/06/2024,Facilities Mngmnt,Estates,OCS UK&I LIMITED,5100019029,"48,331.84",Facilities Mngmnt,IP28 6LG
