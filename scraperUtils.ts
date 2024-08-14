@@ -5,10 +5,12 @@
  * @param text - text representation of the amount
  * @returns extracted amount as a number
  */
-export function parseAmount(text: string): number {
+export function parseAmount(text: string): number | null {
   const amount = Number.parseFloat(text.replace(/[,£]/gi, ''))
   if (isNaN(amount)) {
-    throw new Error(`Invalid amount format: ${text}.`);
+    // TODO: I've broken this, I want to return a value instead of an Error. Need to log and push a record to an audit table so that the request can be retrired
+    // throw new Error(`Invalid amount format: ${text}.`)
+    return null
   }
-  return amount;
+  return amount
 }
