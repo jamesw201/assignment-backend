@@ -97,6 +97,79 @@ If for any reason the database becomes unusable, you can just delete the db.sqli
 If you prefer to completely disable TypeScript for a file, add `// @ts-nocheck` on the first line.
 If you just want to disable strict type checking, modify `tsconfig.json` according to your needs.
 
-# Candidate's notes
 
-TODO: Add your notes here
+
+# Candidate's notes
+Hello! Thank you for taking a look at this submission.
+
+I tried to keep to the design which we discussed in the Design challenge last week.
+
+
+## Running the application
+Start the suppliers and urls APIs
+```
+npx ts-node apis/suppliers/index.ts
+npx ts-node apis/urls/index.ts
+```
+
+Start the data pipeline
+```
+npx ts-node data_pipeline/src/index.ts
+```
+
+Instructions on how to call the API are in the API readme files but here's a few examples:
+```
+curl http://localhost:3000/api/suppliers/stats
+```
+
+```
+curl -s -H 'Content-Type: application/json' \
+  -d '{ "buyer_name": "HMRC", "from_date": "2022-01-01", "to_date": "2022-01-31", "limit": "5"}' \
+  -X POST \
+  http://localhost:3000/api/suppliers/top-suppliers | jq '.'
+```
+('limit' is optional)
+
+
+```
+curl -s -H 'Content-Type: application/json' \
+  -d '{ "supplier_name": "HMRC"}' \
+  -X POST \
+  http://localhost:3000/api/suppliers/supplier_stats
+```
+
+
+
+The application is broken into a few parts:
+
+### Data Pipeline
+
+#### URLFrontier
+- calls the /api/urls/unvisited endpoint to get URLs for processing
+- extracts links from urls
+- places Tasks on a Queue which manages the 'politeness' of the app by adding a delay and concurrency limit
+
+#### Downloader
+- extracts csv links from secondary pages
+- parses csv into SpendTransactions and writes to the spend_transactions table
+
+### APIs
+#### suppliers
+- adds the top-suppliers endpoint to the existing endpoints
+
+#### urls
+- seeds a couple of urls to the database and returns them in an endpoint.
+  This could be extended to accept new URLs that are found by Downloader jobs
+
+### Tests
+I've added new tests with mocks to capture the refactored code.
+- data_pipeline/tests/Downloader.test.ts
+- data_pipeline/tests/URLFrontier.test.ts
+
+## Improvements needed
+- I wanted to deal with error handling by logging and saving failed jobs to the DB but time got away from me.
+- more unit tests
+- Integration tests would be good. Although I think that by injecting dependencies, pretty much all lines are covered.
+- probably a lot of style issues and minor things missed in a rush
+- would benefit from dockerising apps and adding docker-compose config
+- The api doesn't handle timestamps of this format as expected `{ "from_date": "20210101" }`. Instead they accept `{ "from_date": "2022-01-01" }`.
