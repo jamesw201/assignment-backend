@@ -5,5 +5,3 @@ CREATE TABLE spend_transactions (
   amount REAL NOT NULL,
   transaction_timestamp TEXT NOT NULL -- iso8601 format
 ) STRICT;
-
-
