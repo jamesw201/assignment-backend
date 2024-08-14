@@ -17,12 +17,9 @@ function Downloader(db: KnexDb, httpCaller: Http, csvHandler: PapaParse) {
 		).toISO()
 
 		if (!result) {
-			// TODO: I've broken this, I want to return a value instead of an Error. Need to log and push a record to an audit table so that the request can be retrired
-
-			// throw new Error(
-			//   `Invalid transaction timestamp ${date}.`
-			// )
-			return DateTime.now().toISO()
+			throw new Error(
+				`Invalid transaction timestamp ${date}.`
+			)
 		}
 
 		return result
@@ -43,15 +40,18 @@ function Downloader(db: KnexDb, httpCaller: Http, csvHandler: PapaParse) {
 			skipEmptyLines: true, // some files have empty newlines at the end
 		}).data
 
-		// TODO: fix error handling for amount and transaction_timestamp
-		const spendTransactions: SpendTransaction[] = csvData.map(row => {
-			return {
-				buyer_name: row["Entity"],
-				supplier_name: row["Supplier"],
-				amount: parseAmount(row["Amount"]) || 0,
-				transaction_timestamp: isoTsp(row["Date"]) || "my made up date",
+		const spendTransactions: (SpendTransaction | null)[] = csvData.map(row => {
+			try {
+				return {
+					buyer_name: row["Entity"],
+					supplier_name: row["Supplier"],
+					amount: parseAmount(row["Amount"]),
+					transaction_timestamp: isoTsp(row["Date"]),
+				}
+			} catch (err) {
+				return null
 			}
-		}).filter(transaction => transaction.buyer_name !== '')
+		}).filter(transaction => transaction?.buyer_name !== '')
 
 		await db.batchInsert('spend_transactions', spendTransactions, 200)
 		console.log("Finished writing to the DB.")
