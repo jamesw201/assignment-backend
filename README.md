@@ -118,10 +118,23 @@ npx ts-node data_pipeline/src/index.ts
 ```
 
 Instructions on how to call the API are in the API readme files but here's a few examples:
+
+Stats
 ```
 curl http://localhost:3000/api/suppliers/stats
 ```
+![stats](./images/stats.png)
 
+Supplier stats
+```
+curl -s -H 'Content-Type: application/json' \
+  -d '{ "supplier_name": "HMRC"}' \
+  -X POST \
+  http://localhost:3000/api/suppliers/supplier_stats
+```
+![supplier_stats](./images/supplier_stats.png)
+
+Top suppliers
 ```
 curl -s -H 'Content-Type: application/json' \
   -d '{ "buyer_name": "HMRC", "from_date": "2022-01-01", "to_date": "2022-01-31", "limit": "5"}' \
@@ -129,14 +142,18 @@ curl -s -H 'Content-Type: application/json' \
   http://localhost:3000/api/suppliers/top-suppliers | jq '.'
 ```
 ('limit' is optional)
+![top_suppliers](./images/top-suppliers.png)
 
 
+Failed transactions
 ```
 curl -s -H 'Content-Type: application/json' \
-  -d '{ "supplier_name": "HMRC"}' \
+  -d '{ "from_date": "2024-08-01", "to_date": "2024-08-31", "limit": "5"}' \
   -X POST \
-  http://localhost:3000/api/suppliers/supplier_stats
+  http://localhost:3002/api/audits/deadletters | jq '.'
 ```
+![deadletters](./images/deadletters.png)
+
 
 
 
