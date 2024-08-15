@@ -142,7 +142,7 @@ curl -s -H 'Content-Type: application/json' \
   http://localhost:3000/api/suppliers/top-suppliers | jq '.'
 ```
 ('limit' is optional)
-![top_suppliers](./images/top-suppliers.png)
+![top_suppliers](./images/top_suppliers.png)
 
 
 Failed transactions
