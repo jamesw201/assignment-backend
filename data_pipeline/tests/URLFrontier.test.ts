@@ -27,7 +27,7 @@ const mockKnexDb: KnexDb = {
  * */
 describe('Data Pipeline: URLFrontier', () => {
 
-	test('processUrls processes URLs correctly', async () => {
+	test('Retrieve URLs and queue downloaders', async () => {
 		const urls = "http://localhost:3001/api/urls/unvisited"
 		const listUrl = "https://www.gov.uk/api/content/government/collections/spending-over-25-000"
 		const csvUrl = "https://assets.publishing.service.gov.uk/media/66a36c16ce1fd0da7b592d9c/HMRC_spending_over_25000_for_June_2024.csv"

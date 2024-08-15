@@ -13,7 +13,7 @@ import sampleJson from './data/item.json'
 
 describe('Data Pipeline: Downloader', () => {
 
-	test('processUrls processes URLs correctly', async () => {
+	test('Download page and parse CSVs correctly', async () => {
 		const reportUrl = "https://www.gov.uk/api/content/government/publications/hmrc-spending-over-25000-june-2024"
 		const csvUrl = "https://assets.publishing.service.gov.uk/media/66a36c16ce1fd0da7b592d9c/HMRC_spending_over_25000_for_June_2024.csv"
 
