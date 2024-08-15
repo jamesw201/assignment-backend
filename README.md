@@ -110,6 +110,7 @@ Start the suppliers and urls APIs
 ```
 npx ts-node apis/suppliers/index.ts
 npx ts-node apis/urls/index.ts
+npx ts-node apis/audits/index.ts
 ```
 
 Start the data pipeline
