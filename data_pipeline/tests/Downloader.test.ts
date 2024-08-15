@@ -51,7 +51,7 @@ describe('Data Pipeline: Downloader', () => {
 		const downloader = Downloader(mockKnexDb, mockHttp, mockPapaParse)
 		await downloader.start(reportUrl)
 
-		expect(mockKnexDb.batchInsert).toHaveBeenCalledTimes(1)
+		expect(mockKnexDb.batchInsert).toHaveBeenCalledTimes(2)
 	})
 
 })
