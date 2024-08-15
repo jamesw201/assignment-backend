@@ -119,13 +119,13 @@ npx ts-node data_pipeline/src/index.ts
 
 Instructions on how to call the API are in the API readme files but here's a few examples:
 
-Stats
+#### Stats
 ```
 curl http://localhost:3000/api/suppliers/stats
 ```
 ![stats](./images/stats.png)
 
-Supplier stats
+#### Supplier stats
 ```
 curl -s -H 'Content-Type: application/json' \
   -d '{ "supplier_name": "HMRC"}' \
@@ -134,7 +134,7 @@ curl -s -H 'Content-Type: application/json' \
 ```
 ![supplier_stats](./images/supplier_stats.png)
 
-Top suppliers
+#### Top suppliers
 ```
 curl -s -H 'Content-Type: application/json' \
   -d '{ "buyer_name": "HMRC", "from_date": "2022-01-01", "to_date": "2022-01-31", "limit": "5"}' \
@@ -145,7 +145,7 @@ curl -s -H 'Content-Type: application/json' \
 ![top_suppliers](./images/top_suppliers.png)
 
 
-Failed transactions
+#### Failed transactions
 ```
 curl -s -H 'Content-Type: application/json' \
   -d '{ "from_date": "2024-08-01", "to_date": "2024-08-31", "limit": "5"}' \
